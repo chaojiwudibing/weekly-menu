@@ -1,14 +1,44 @@
 # 一周菜单
 
-本机预览：http://127.0.0.1:8765/
+一个用来**直接打开一周菜单网页**的轻量 Codex skill。
 
-保留米色、绿色的原版网页设计。包含 200 道家常菜，可选择 50、100、200 道候选；每一道候选对应一个真实转盘扇区，菜名限制在扇区内。支持食材类别、预算、时间筛选、做法查看和一周菜单安排。
+安装后对 Codex 说：
 
-采购清单根据本周已选菜自动生成，按肉类、蔬菜与菌菇、豆制品与豆类、调味配料分类。同名食材合并克数，支持 1–4 人份换算、已购勾选和复制。菜单及采购状态保存在当前浏览器本地。
+> 用 $weekly-menu 打开一周菜单。
 
-也可双击 index.html 打开；复制清单功能建议使用本机预览地址。四个网页文件须保持在同一文件夹。
+Codex 会打开 [一周菜单在线网页](https://bruces-menu.ys5ng2gcbz.workers.dev/)。随后在网页中转盘选菜、安排七天主菜、生成分类采购清单。也可以不安装，直接点击链接使用。
 
-价格仅为食材估算。过夜须及时冷藏、冷链携带并充分复热，具体说明见菜谱。
+## 安装到 Codex
 
-公开地址：https://bruces-menu.ys5ng2gcbz.workers.dev/
-由 Cloudflare Workers 静态托管，不依赖本机开机。
+需要已安装 Codex 和 Git。
+
+macOS / Linux：
+
+```sh
+mkdir -p ~/.codex/skills
+git clone https://github.com/chaojiwudibing/weekly-menu.git ~/.codex/skills/weekly-menu
+```
+
+Windows PowerShell：
+
+```powershell
+New-Item -ItemType Directory -Force "$env:USERPROFILE\.codex\skills" | Out-Null
+git clone https://github.com/chaojiwudibing/weekly-menu.git "$env:USERPROFILE\.codex\skills\weekly-menu"
+```
+
+若配置了自定义 CODEX_HOME，请安装到其中的 skills/weekly-menu。目录已存在时不要覆盖，确认它是本仓库后运行 `git -C <安装目录> pull --ff-only`。安装后开启新的 Codex 会话；若尚未发现 skill，重启 Codex。
+
+这是标准 SKILL.md 包装，其他支持此格式的工具需按各自方式安装，未逐一验证兼容性。环境没有浏览器打开能力时，skill 返回可点击链接。
+
+## 网页里可以做什么
+
+- 200道家常菜；选择50、100或200道候选，每道候选对应真实转盘扇区。
+- 按食材类别、预算、下厨时间筛选，查看做法并加入本周。
+- 七天主菜安排；同名食材按类别合并克数，支持1–4人份换算、勾选和复制。
+- 电脑端两屏布局，页面到采购清单结束；小屏按内容适配。
+
+本 skill 只负责打开网站，不在聊天里另外计算菜单。个人菜单存于当前浏览器，不上传到本 GitHub 仓库，也不会在设备间自动同步。需要联网访问在线页面；价格是参考估算，菜单不是完整营养处方。次日带饭需及时冷藏、冷链携带和充分复热，详见菜谱。
+
+## 网页源码
+
+根目录保留静态网页源码，无构建依赖。双击 index.html 可本地打开，或运行 `python3 -m http.server 8765 --bind 127.0.0.1` 后访问 http://127.0.0.1:8765/ 。复制清单建议通过 localhost 或 HTTPS 使用。
