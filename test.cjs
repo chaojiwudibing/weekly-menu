@@ -24,3 +24,13 @@ assert(run('week.every(id=>id===null)'));assert.equal(run('shoppingData().length
 assert.deepEqual(JSON.parse(saved.get('weekly-meals-v2')),Array(7).fill(null));assert(!saved.has('weekly-shopping-checks'));assert(el('#copy-list').disabled);
 el('#clear-week').onclick();el('#generate').onclick();assert(run('week.every(id=>id!==null)'));
 console.log('PASS: clear week, grocery reset, persisted empty state, repeat clear and regenerate.');
+for(const r of recipes){
+ const u=new URL(r.video.url);assert.equal(u.protocol,'https:');
+ assert(['www.bilibili.com','www.youtube.com','www.douyin.com','haokan.baidu.com'].includes(u.hostname));
+ assert(!/search/.test(u.pathname));assert(r.video.title&&r.video.platform);
+ run(`showDetail(${r.id})`);
+ const html=el('#detail-content').innerHTML;
+ assert(html.includes(r.video.url),r.name);assert(html.includes(`观看${r.name}教程`),r.name);
+ assert(html.includes('rel="noopener noreferrer"'));
+}
+console.log('PASS: all 300 recipe dialogs have a named HTTPS video link and safe new-tab behavior.');
