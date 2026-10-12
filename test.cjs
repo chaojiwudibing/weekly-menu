@@ -30,11 +30,11 @@ for(const r of recipes){
  assert(!/search/.test(u.pathname));assert(r.video.title&&r.video.platform);
  run(`showDetail(${r.id})`);
  const html=el('#detail-content').innerHTML;
- assert(html.includes(r.video.url),r.name);assert(html.includes(`观看${r.name}教程`),r.name);
- assert(html.includes('rel="noopener noreferrer"'));
+ if(!r.video.embed){assert(html.includes(r.video.url),r.name);assert(html.includes(`观看${r.name}教程`),r.name);}
+ if(!r.video.embed)assert(html.includes('rel="noopener noreferrer"'));
 }
-console.log('PASS: all 300 recipe dialogs have a named HTTPS video link and safe new-tab behavior.');
+console.log('PASS: all 300 recipe dialogs render video sources.');
 const pilots=recipes.filter(r=>r.video.embed);assert.equal(pilots.length,3);
-for(const r of pilots){run(`showDetail(${r.id})`);const html=el('#detail-content').innerHTML;assert(html.includes('player.bilibili.com/player.html?bvid='));assert(html.includes('autoplay=0'));assert(html.includes(r.video.backup.url));assert(html.includes('复制菜名'));}
+for(const r of pilots){run(`showDetail(${r.id})`);const html=el('#detail-content').innerHTML;assert(html.includes('player.bilibili.com/player.html?bvid='));assert(html.includes('autoplay=0'));assert(!html.includes('<a '));assert(!html.includes('copy-dish'));assert(r.video.published.startsWith('2025'));}
 assert(!run('videoSection(recipes[1])').includes('<iframe'));
-(async()=>{run('showDetail(293)');await el('#copy-dish').onclick();assert.equal(el('#video-status').textContent,'已复制：苦瓜炒肉');run('navigator.clipboard.writeText=async()=>{throw new Error("denied")}');await el('#copy-dish').onclick();assert.equal(el('#video-status').textContent,'请手动复制菜名：苦瓜炒肉');console.log('PASS: three-dish embed pilot, external backup, clipboard success and failure.');})().catch(e=>{console.error(e);process.exitCode=1});
+console.log('PASS: three newer tutorials, inline only, no extra links or copy controls.');

@@ -56,14 +56,12 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103522380/",
     "video": {
-      "title": "厨师长教你：“红烧肉”的家常做法，肉香四溢肥而不腻_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Us411H7Nw/",
+      "url": "https://www.bilibili.com/video/BV14VvYBxE2x/",
+      "title": "【简简厨房】本帮红烧肉",
       "platform": "哔哩哔哩",
       "embed": true,
-      "backup": {
-        "url": "https://haokan.baidu.com/v?vid=2919534307074584747",
-        "platform": "好看视频"
-      }
+      "published": "2025-12-30",
+      "author": "简简厨房"
     }
   },
   {
@@ -11206,14 +11204,12 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/1012917/",
     "video": {
-      "title": "生活化减脂餐 云朵番茄炒蛋超详细做法来啦_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV178AMz1EaN/",
+      "url": "https://www.bilibili.com/video/BV1uY8vzkEmx/",
+      "title": "番茄炒蛋 | 有锅就能做、黄金比例被我拿捏了！",
       "platform": "哔哩哔哩",
       "embed": true,
-      "backup": {
-        "url": "https://haokan.baidu.com/v?vid=492271868847980190",
-        "platform": "好看视频"
-      }
+      "published": "2025-07-27",
+      "author": "何时下厨"
     }
   },
   {
@@ -14554,14 +14550,12 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107327859/",
     "video": {
-      "title": "苦瓜炒肉的家常做法，苦瓜不苦肉片嫩，太下饭了。_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1fq4y1n7cR/",
+      "url": "https://www.bilibili.com/video/BV1bLZAYkEcQ/",
+      "title": "教你苦瓜炒肉的家常做法，苦瓜不苦且回甘，肉片嫩滑不柴，超好吃",
       "platform": "哔哩哔哩",
       "embed": true,
-      "backup": {
-        "url": "https://haokan.baidu.com/v?vid=657494854806383020",
-        "platform": "好看视频"
-      }
+      "published": "2025-03-29",
+      "author": "天天相见厨房阿鹏"
     }
   },
   {
