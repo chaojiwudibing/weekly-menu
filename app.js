@@ -57,3 +57,9 @@ $('#copy-list').onclick=async()=>{const checks=readChecks(),text='本周采购�
 renderShopping();
 
 if(migrationNotice)$('#status').textContent=migrationNotice;
+
+if(typeof location!=='undefined'){
+ const requested=new URLSearchParams(location.search).get('dish');
+ const recipe=recipes.find(r=>r.name===requested);
+ if(recipe)showDetail(recipe.id);
+}
