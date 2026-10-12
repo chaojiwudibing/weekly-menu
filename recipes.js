@@ -58,7 +58,12 @@ const recipes = [
     "video": {
       "title": "厨师长教你：“红烧肉”的家常做法，肉香四溢肥而不腻_哔哩哔哩_bilibili",
       "url": "https://www.bilibili.com/video/BV1Us411H7Nw/",
-      "platform": "哔哩哔哩"
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "backup": {
+        "url": "https://haokan.baidu.com/v?vid=2919534307074584747",
+        "platform": "好看视频"
+      }
     }
   },
   {
@@ -11203,7 +11208,12 @@ const recipes = [
     "video": {
       "title": "生活化减脂餐 云朵番茄炒蛋超详细做法来啦_哔哩哔哩_bilibili",
       "url": "https://www.bilibili.com/video/BV178AMz1EaN/",
-      "platform": "哔哩哔哩"
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "backup": {
+        "url": "https://haokan.baidu.com/v?vid=492271868847980190",
+        "platform": "好看视频"
+      }
     }
   },
   {
@@ -14546,7 +14556,12 @@ const recipes = [
     "video": {
       "title": "苦瓜炒肉的家常做法，苦瓜不苦肉片嫩，太下饭了。_哔哩哔哩_bilibili",
       "url": "https://www.bilibili.com/video/BV1fq4y1n7cR/",
-      "platform": "哔哩哔哩"
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "backup": {
+        "url": "https://haokan.baidu.com/v?vid=657494854806383020",
+        "platform": "好看视频"
+      }
     }
   },
   {

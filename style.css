@@ -9,3 +9,5 @@ header{height:72px;padding:14px 32px}main{max-width:1200px}.screen{display:flex;
 .week-actions{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}.week-actions button{white-space:nowrap}
 
 .video-tutorial{display:flex;align-items:center;gap:12px;padding:16px;border:1px solid var(--line);border-radius:11px;background:#eef0e5;font-size:15px;font-weight:600}.video-tutorial:hover{border-color:#899369;background:#e6ebda}.video-play{display:grid;place-items:center;flex:0 0 36px;height:36px;border-radius:50%;background:var(--ink);color:#fff;font-size:13px}.video-platform{margin-left:auto;white-space:nowrap;font-size:12px;font-weight:400;color:#69765e}
+
+.recipe-player{display:block;width:100%;aspect-ratio:16/9;border:0;border-radius:10px;background:#171b15;margin-bottom:12px}.video-options{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px}.video-options a{display:inline-flex;align-items:center}
