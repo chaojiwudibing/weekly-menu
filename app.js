@@ -23,6 +23,11 @@ function showDetail(id){const r=recipes[id];$('#detail-content').innerHTML=`<div
 $('#spin').onclick=()=>{if(busy||!pool.length)return;busy=true;$('#spin').disabled=true;document.querySelectorAll('#categories button,#budget,#time,#wheel-count').forEach(e=>e.disabled=true);const chosen=pool[Math.floor(Math.random()*pool.length)];drawWheel();$('#spin').disabled=true;const index=segments.findIndex(r=>r.id===chosen.id),target=(360-index*360/segments.length)%360;const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;$('#wheel').getBoundingClientRect();$('#wheel').style.transition=reduced?'none':'transform 4s cubic-bezier(.13,.65,.12,1)';angle=1800+target;$('#wheel').style.transform=`rotate(${angle}deg)`;$('#result').innerHTML='<div class="eyebrow">一点点期待…</div><h3>好味道正在路上</h3><p class="muted">转盘停下，就知道今天吃什么。</p>';setTimeout(()=>{renderResult(chosen);busy=false;$('#spin').disabled=false;document.querySelectorAll('#categories button,#budget,#time,#wheel-count').forEach(e=>e.disabled=false)},reduced?50:4050)};
 $('#categories').onclick=e=>{const b=e.target.closest('[data-category]');if(!b||busy)return;category=b.dataset.category;document.querySelectorAll('[data-category]').forEach(x=>{x.classList.toggle('active',x===b);x.setAttribute('aria-pressed',x===b)});filter()};$('#wheel-count').onchange=filter;$('#budget').onchange=filter;$('#time').onchange=filter;
 document.addEventListener('click',e=>{const detail=e.target.closest('[data-detail]');if(detail)showDetail(+detail.dataset.detail);const remove=e.target.closest('[data-remove]');if(remove){week[+remove.dataset.remove]=null;persist('已移除，可以重新安排。')}if(e.target.closest('#quick-save')&&current){const day=week.indexOf(null);if(day<0)showDetail(current.id);else save(current,day)}});
+$('#clear-week').onclick=()=>{
+  week=Array(7).fill(null);
+  try{localStorage.removeItem('weekly-shopping-checks')}catch{}
+  persist('本周菜单和采购清单已清空。');
+};
 $('#generate').onclick=()=>{
   if(!pool.length){$('#status').textContent='没有符合条件的菜，请先放宽上方筛选。';return}
   const fresh=pool.filter(r=>!week.includes(r.id));

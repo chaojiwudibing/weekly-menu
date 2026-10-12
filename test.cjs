@@ -1,5 +1,5 @@
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
-const root=process.argv[2]||'.',elements=new Map(),saved=new Map();
+const root=process.argv[2]||__dirname,elements=new Map(),saved=new Map();
 function el(s){if(!elements.has(s))elements.set(s,{value:({'#budget':'50','#time':'999','#wheel-count':'300','#people':'1'})[s]||'',style:{},innerHTML:'',textContent:'',disabled:false,addEventListener(){},getBoundingClientRect(){return {}},showModal(){},close(){}});return elements.get(s)}
 const context=vm.createContext({document:{querySelector:el,querySelectorAll:()=>[],addEventListener(){}},localStorage:{getItem:k=>saved.get(k)||null,setItem:(k,v)=>saved.set(k,String(v)),removeItem:k=>saved.delete(k)},matchMedia:()=>({matches:true}),setTimeout:fn=>fn(),navigator:{clipboard:{writeText:async()=>{}}},console});
 const run=s=>vm.runInContext(s,context);
@@ -18,3 +18,9 @@ run('pool=[recipes[0]]');el('#generate').onclick();assert(run('week.every(id=>id
 run('pool=[]');let before=run('JSON.stringify(week)');el('#generate').onclick();assert.equal(run('JSON.stringify(week)'),before);
 run('pool=recipes.slice(0,7)');el('#generate').onclick();before=run('JSON.stringify(week)');el('#generate').onclick();assert.notEqual(run('JSON.stringify(week)'),before);assert.equal(run('new Set(week).size'),7);
 console.log('PASS: 300 unique recipes, 300 sectors, 25 complete rerolls, budgets, storage, quantities, empty and small pools.');
+
+saved.set('weekly-shopping-checks','{"old":1}');el('#clear-week').onclick();
+assert(run('week.every(id=>id===null)'));assert.equal(run('shoppingData().length'),0);
+assert.deepEqual(JSON.parse(saved.get('weekly-meals-v2')),Array(7).fill(null));assert(!saved.has('weekly-shopping-checks'));assert(el('#copy-list').disabled);
+el('#clear-week').onclick();el('#generate').onclick();assert(run('week.every(id=>id!==null)'));
+console.log('PASS: clear week, grocery reset, persisted empty state, repeat clear and regenerate.');
