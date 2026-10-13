@@ -20,10 +20,15 @@ function renderWeek(){$('#days').innerHTML=week.map((id,i)=>`<div class="day"><s
 function persist(message){try{localStorage.setItem('weekly-meals-v2',JSON.stringify(week.map(id=>id===null?null:recipes[id].name)));storageAvailable=true}catch{storageAvailable=false}renderWeek();renderShopping();$('#status').textContent=message+(storageAvailable?'':'（浏览器存储不可用，刷新后可能丢失）')}
 function save(r,day){week[day]=r.id;persist(`已把「${r.name}」安排在${days[day]}。`)}
 function videoSection(r){
- const bvid=r.video.url.match(/\/video\/(BV[a-zA-Z0-9]+)\/?$/)?.[1];
- const embed=r.video.embed&&bvid?`<iframe class="recipe-player" src="https://player.bilibili.com/player.html?bvid=${bvid}&autoplay=0&danmaku=0" title="${r.name}视频教程" allow="fullscreen; picture-in-picture" allowfullscreen></iframe>`:'';
- if(embed)return `<h3>视频教程</h3>${embed}`;
- return `<h3>视频教程</h3><a class="video-tutorial" href="${r.video.url}" target="_blank" rel="noopener noreferrer" aria-label="观看${r.name}的视频教程（${r.video.platform}，新标签页打开）"><span class="video-play" aria-hidden="true">▶</span><span>观看${r.name}教程</span><span class="video-platform">${r.video.platform} ↗</span></a>`;
+ const video=r.video;
+ if(!video?.embed||!video.metadataVerified)return '<h3>视频教程</h3><p class="muted">视频待补充</p>';
+ let src='';
+ const bili=video.url.match(/^https:\/\/www\.bilibili\.com\/video\/(BV[a-zA-Z0-9]{10})\/?$/);
+ const douyin=video.url.match(/^https:\/\/www\.douyin\.com\/video\/(\d{19})\/?$/);
+ if(bili)src=`https://player.bilibili.com/player.html?bvid=${bili[1]}&autoplay=0&danmaku=0`;
+ else if(douyin)src=`https://open.douyin.com/player/video?vid=${douyin[1]}&autoplay=0`;
+ if(!src)return '<h3>视频教程</h3><p class="muted">视频待补充</p>';
+ return `<h3>视频教程</h3>${douyin?'<div class="douyin-player-wrap">':''}<iframe class="recipe-player${douyin?' douyin-player':''}" src="${src}" title="${r.name}视频教程" loading="lazy" referrerpolicy="origin" allow="fullscreen; picture-in-picture" allowfullscreen></iframe>${douyin?'</div>':''}`;
 }
 function showDetail(id){const r=recipes[id];$('#detail-content').innerHTML=`<div class="eyebrow">RECIPE ${String(id+1).padStart(2,'0')} / ${recipes.length}</div><h2>${r.name}</h2>${metadata(r)}<h3>准备食材 · 1 人份</h3><p>${r.ingredients}</p><p class="fine">家庭做法，食材克数为一人份参考；按所列调料准备。</p>${videoSection(r)}<h3>家常做法</h3><ol>${r.steps.map(s=>`<li>${s}</li>`).join('')}</ol><div class="safety"><div><strong>明天带饭这样做</strong><p>分装浅盒，2 小时内冷藏至 ≤4°C（炎热环境 1 小时内），建议次日食用。微波适用容器留缝加盖，中途搅拌，中心达到 74°C；偏干可加一勺水。</p></div></div><h3>安排进我的一周</h3><div class="dialog-save"><label>选择日期<select id="save-day">${days.map((d,i)=>`<option value="${i}" ${i===week.indexOf(null)?'selected':''}>${d}${week[i]!==null?' · 替换 '+recipes[week[i]].name:''}</option>`).join('')}</select></label><button class="solid" id="save-detail">保存这道菜</button></div>`;$('#save-detail').onclick=()=>{save(r,+$('#save-day').value);$('#detail').close()};$('#detail').showModal()}
 $('#spin').onclick=()=>{if(busy||!pool.length)return;busy=true;$('#spin').disabled=true;document.querySelectorAll('#categories button,#budget,#time,#wheel-count').forEach(e=>e.disabled=true);const chosen=pool[Math.floor(Math.random()*pool.length)];drawWheel();$('#spin').disabled=true;const index=segments.findIndex(r=>r.id===chosen.id),target=(360-index*360/segments.length)%360;const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;$('#wheel').getBoundingClientRect();$('#wheel').style.transition=reduced?'none':'transform 4s cubic-bezier(.13,.65,.12,1)';angle=1800+target;$('#wheel').style.transform=`rotate(${angle}deg)`;$('#result').innerHTML='<div class="eyebrow">一点点期待…</div><h3>好味道正在路上</h3><p class="muted">转盘停下，就知道今天吃什么。</p>';setTimeout(()=>{renderResult(chosen);busy=false;$('#spin').disabled=false;document.querySelectorAll('#categories button,#budget,#time,#wheel-count').forEach(e=>e.disabled=false)},reduced?50:4050)};

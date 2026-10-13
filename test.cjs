@@ -24,17 +24,21 @@ assert(run('week.every(id=>id===null)'));assert.equal(run('shoppingData().length
 assert.deepEqual(JSON.parse(saved.get('weekly-meals-v2')),Array(7).fill(null));assert(!saved.has('weekly-shopping-checks'));assert(el('#copy-list').disabled);
 el('#clear-week').onclick();el('#generate').onclick();assert(run('week.every(id=>id!==null)'));
 console.log('PASS: clear week, grocery reset, persisted empty state, repeat clear and regenerate.');
+let embedded=0,pending=0;
 for(const r of recipes){
- const u=new URL(r.video.url);assert.equal(u.protocol,'https:');
- assert(['www.bilibili.com','www.youtube.com','www.douyin.com','haokan.baidu.com'].includes(u.hostname));
- assert(!/search/.test(u.pathname));assert(r.video.title&&r.video.platform);
  run(`showDetail(${r.id})`);
  const html=el('#detail-content').innerHTML;
- if(!r.video.embed){assert(html.includes(r.video.url),r.name);assert(html.includes(`观看${r.name}教程`),r.name);}
- if(!r.video.embed)assert(html.includes('rel="noopener noreferrer"'));
+ assert(!html.includes('<a '));assert(!html.includes('copy-dish'));
+ if(!r.video.embed){pending++;assert(html.includes('视频待补充'));assert(!html.includes('<iframe'));continue;}
+ embedded++;
+ assert(r.video.metadataVerified&&r.video.author&&r.video.title);
+ assert(r.video.published>='2024-10-13'&&r.video.published<='2026-10-13',r.name);
+ assert(r.video.duration>=(r.video.durationException?30:60)&&r.video.duration<=(r.video.largeDish?600:r.video.durationException?420:300),r.name);
+ assert(/^https:\/\/www\.(bilibili|douyin)\.com\/video\//.test(r.video.url));
+ assert(html.includes('<iframe'));assert(html.includes('autoplay=0'));
+ assert(html.includes(r.video.platform==='抖音'?'open.douyin.com/player/video?vid=':'player.bilibili.com/player.html?bvid='));
 }
-console.log('PASS: all 300 recipe dialogs render video sources.');
-const pilots=recipes.filter(r=>r.video.embed);assert.equal(pilots.length,3);
-for(const r of pilots){run(`showDetail(${r.id})`);const html=el('#detail-content').innerHTML;assert(html.includes('player.bilibili.com/player.html?bvid='));assert(html.includes('autoplay=0'));assert(!html.includes('<a '));assert(!html.includes('copy-dish'));assert(r.video.published.startsWith('2025'));}
-assert(!run('videoSection(recipes[1])').includes('<iframe'));
-console.log('PASS: three newer tutorials, inline only, no extra links or copy controls.');
+for(const url of ['javascript:alert(1)','https://evil.example/video/BV161aCzWEUW/','https://www.bilibili.com/video/BV161aCzWEUW/?x=1']){
+ assert(!run(`videoSection({name:'测试',video:{embed:true,metadataVerified:true,url:${JSON.stringify(url)}}})`).includes('<iframe'));
+}
+console.log(`PASS: ${embedded} embedded tutorials, ${pending} explicitly pending, date/duration/provider checks, no external links, unsafe URLs rejected.`);

@@ -11,3 +11,5 @@ header{height:72px;padding:14px 32px}main{max-width:1200px}.screen{display:flex;
 .video-tutorial{display:flex;align-items:center;gap:12px;padding:16px;border:1px solid var(--line);border-radius:11px;background:#eef0e5;font-size:15px;font-weight:600}.video-tutorial:hover{border-color:#899369;background:#e6ebda}.video-play{display:grid;place-items:center;flex:0 0 36px;height:36px;border-radius:50%;background:var(--ink);color:#fff;font-size:13px}.video-platform{margin-left:auto;white-space:nowrap;font-size:12px;font-weight:400;color:#69765e}
 
 .recipe-player{display:block;width:100%;aspect-ratio:16/9;border:0;border-radius:10px;background:#171b15;margin-bottom:12px}
+
+.douyin-player-wrap{container-type:inline-size;aspect-ratio:16/9;overflow:hidden;border-radius:10px;margin-bottom:12px}.douyin-player{width:1280px;height:720px;max-width:none;transform-origin:top left;transform:scale(calc(100cqw / 1280px));margin:0}

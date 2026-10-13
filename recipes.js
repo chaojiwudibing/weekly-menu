@@ -56,12 +56,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103522380/",
     "video": {
-      "url": "https://www.bilibili.com/video/BV14VvYBxE2x/",
-      "title": "【简简厨房】本帮红烧肉",
+      "url": "https://www.bilibili.com/video/BV161aCzWEUW/",
+      "title": "事无巨细家常版本的外婆红烧肉，就是为了让你们在家做出来！",
+      "author": "安秋金",
+      "published": "2025-09-04",
+      "duration": 216,
       "platform": "哔哩哔哩",
       "embed": true,
-      "published": "2025-12-30",
-      "author": "简简厨房"
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV161aCzWEUW"
     }
   },
   {
@@ -105,9 +110,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/39989/",
     "video": {
-      "title": "回锅肉的家常做法，两分钟教你怎么做才更美味_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1mp411d7fE/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1SyGrz2EtK/",
+      "title": "米饭杀手来了！零失败回锅肉！",
+      "author": "特厨做饭_",
+      "published": "2025-04-30",
+      "duration": 194,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SyGrz2EtK"
     }
   },
   {
@@ -181,9 +194,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/100352761/",
     "video": {
-      "title": "天津美食做法教程之鱼香肉丝篇_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1GUKhzkEaB/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1xr4y6MEuG/",
+      "title": "拿捏下饭真门道，怎么调汁怎么炒？新鱼香肉丝~",
+      "author": "安秋金",
+      "published": "2026-08-29",
+      "duration": 229,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xr4y6MEuG"
     }
   },
   {
@@ -252,9 +273,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/101856562/",
     "video": {
-      "title": "分享一道莽哥版老贵阳味“宫保肉丁”_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV18341187h7/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1yDE96kE31/",
+      "title": "今天做的的宫爆肉丁，香辣过瘾肉丁又嫩又滑，好入味好好吃呀！#宫爆肉丁 #宫爆 #下饭菜 #家常菜",
+      "author": "A惠姐家常菜",
+      "published": "2026-06-10",
+      "duration": 70,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yDE96kE31"
     }
   },
   {
@@ -308,9 +337,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106907933/",
     "video": {
-      "title": "〖大家呼唤已久的糖醋里脊 定量保姆级教程来了〗_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1RT4QzXEyD/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1VsxMzbEeH/",
+      "title": "厨房小白也能搞定的糖醋里脊！这配方谁做谁成功！",
+      "author": "特厨做饭_",
+      "published": "2025-10-06",
+      "duration": 229,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VsxMzbEeH"
     }
   },
   {
@@ -354,9 +391,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107020158/",
     "video": {
-      "title": "京酱肉丝，不滑油做法_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1cB4y1R7Bm/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV12ZiTBWEdi/",
+      "title": "京酱肉丝超详细教程！酱香浓郁无敌好吃！",
+      "author": "袁锐-萌新的圆",
+      "published": "2025-12-31",
+      "duration": 216,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV12ZiTBWEdi"
     }
   },
   {
@@ -410,9 +455,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106043056/",
     "video": {
-      "title": "天津版本传统木须肉做法，那叫一个地道！那叫一个美！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1im42137Fv/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1E8pTzxE3T/",
+      "title": "不敢多做！这木须肉太费米饭了！",
+      "author": "特厨做饭_",
+      "published": "2025-09-15",
+      "duration": 131,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1E8pTzxE3T"
     }
   },
   {
@@ -466,9 +519,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104118235/",
     "video": {
-      "title": "农家小炒肉家常做法 香辣开胃 简单几步做出一道下饭菜_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1UW411977j/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1RKAZzVE69/",
+      "title": "农家小炒肉香辣够味，肉片焦香，青椒爽脆，下饭神器！",
+      "author": "厨师长老阳01",
+      "published": "2026-03-03",
+      "duration": 100,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RKAZzVE69"
     }
   },
   {
@@ -512,9 +573,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/100302840/",
     "video": {
-      "title": "厨师长教你：“盐煎肉”的家常做法，味道独特，川人的最爱_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Fa4y1p7zZ/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1VGJP6JEBs/",
+      "title": "下饭菜的天花板，盐煎肉保姆级教程",
+      "author": "猴哥爱做江湖菜",
+      "published": "2026-06-14",
+      "duration": 123,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VGJP6JEBs"
     }
   },
   {
@@ -563,9 +632,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106168470/",
     "video": {
-      "title": "我做的“蒜苔炒肉”很好吃！步骤清晰详细、做法易学接地气_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1WL4y1M7LF/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV139u7zkENn/",
+      "title": "蒜苔炒肉",
+      "author": "袁锐-萌新的圆",
+      "published": "2025-07-13",
+      "duration": 244,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV139u7zkENn"
     }
   },
   {
@@ -614,9 +691,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104691260/",
     "video": {
-      "title": "芹菜炒肉先炒芹菜还是先炒肉？好多人搞不清楚，大厨教你正确做法_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1W34y1Z7oZ/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV19F41zPE2q/",
+      "title": "简单易学的芹菜炒肉丝，肉丝滑嫩入味，芹菜脆爽。",
+      "author": "王哥盐帮菜",
+      "published": "2025-10-13",
+      "duration": 97,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV19F41zPE2q"
     }
   },
   {
@@ -665,9 +750,17 @@ const recipes = [
     ],
     "source": "https://home.meishichina.com/recipe-43258.html",
     "video": {
-      "title": "韭菜炒肉这样做，韭菜鲜香入味，肉丝滑嫩多汁，下酒下饭都好吃_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1kM4y1P7cs",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1ehkEYXEBf/",
+      "title": "一道清爽脆口的家常菜做法-花生芽韭菜炒肉，按我这样做，花生芽脆爽不发软",
+      "author": "钧哥食堂",
+      "published": "2024-12-17",
+      "duration": 134,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ehkEYXEBf"
     }
   },
   {
@@ -716,9 +809,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106643642/",
     "video": {
-      "title": "洋葱炒肉看似简单，想要做得好吃也有技巧，大厨教你详细做法_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1je411X7rt/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1zY7WzfEvL/",
+      "title": "当你想吃“青椒洋葱炒肉丝”就把这视频翻出来",
+      "author": "美食强",
+      "published": "2025-05-30",
+      "duration": 195,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zY7WzfEvL"
     }
   },
   {
@@ -767,9 +868,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107480547/",
     "video": {
-      "title": "清淡家常菜之莴笋怎么做好吃 湖南口味的莴笋炒肉的做法好吃下饭_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Qc411f7KA/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1ce9dYiEfS/",
+      "title": "哪有男人不会做饭啊！（莴笋炒肉）",
+      "author": "小酒吃点啥-",
+      "published": "2025-03-05",
+      "duration": 113,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ce9dYiEfS"
     }
   },
   {
@@ -818,9 +927,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103798972/",
     "video": {
-      "title": "茭白炒肉的家常做法，大厨教你一个技巧，高笋脆爽入味肉片特别香_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1ex4y1p7sL/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1d2Tjz6Eew/",
+      "title": "茭白炒肉丝，是先炒茭白还是炒肉丝，肉丝怎么腌制才鲜嫩不柴入味 #茭白炒肉丝 #茭白炒肉 #腌肉丝 #茭白的家常做法 #美食教程",
+      "author": "大厨阿斗",
+      "published": "2025-06-04",
+      "duration": 181,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1d2Tjz6Eew"
     }
   },
   {
@@ -879,9 +996,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107400831/",
     "video": {
-      "title": "〖美食台〗笋干烧肉，笋香肉酥鲜美无比！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Bs411h7wF/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1vioWBNEMY/",
+      "title": "笋干烧肉",
+      "author": "懒燕厨房",
+      "published": "2026-04-22",
+      "duration": 130,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vioWBNEMY"
     }
   },
   {
@@ -935,9 +1060,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106597853/",
     "video": {
-      "title": "梅干菜烧肉｜软糯香嫩～肥而不腻｜保姆教程！_哔哩哔哩_bilibili",
       "url": "https://www.bilibili.com/video/BV1wkxLzcE3S/",
-      "platform": "哔哩哔哩"
+      "title": "梅干菜烧肉｜软糯香嫩～肥而不腻｜保姆教程！",
+      "author": "任芸丽",
+      "published": "2025-10-06",
+      "duration": 209,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wkxLzcE3S"
     }
   },
   {
@@ -991,9 +1124,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107109463/",
     "video": {
-      "title": "土豆烧肉的家常做法_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1dN411V7aS/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1rteizzEEX/",
+      "title": "它就是最强下饭菜！家常土豆烧肉超详细版教程",
+      "author": "袁锐-萌新的圆",
+      "published": "2025-08-23",
+      "duration": 292,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1rteizzEEX"
     }
   },
   {
@@ -1047,9 +1188,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/106848829/",
     "video": {
-      "title": "一个萝卜一块肉，教您做经典的萝卜烧肉，软烂入味肥而不腻，过瘾【萝卜烧肉】 - YouTube",
-      "url": "https://www.youtube.com/watch?v=DQulhNQqqtE",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1SrUsB3E3N/",
+      "title": "当你想吃“萝卜烧肉”就把这部视频翻出来",
+      "author": "美食强",
+      "published": "2025-11-22",
+      "duration": 132,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SrUsB3E3N"
     }
   },
   {
@@ -1103,9 +1252,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107365334/",
     "video": {
-      "title": "〖当和〗腐竹烧肉，入口醇香，味道厚重_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1kV411k7Q3/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV193DLBZEeG/",
+      "title": "瘦肉不柴，肥肉不腻——腐竹烧肉",
+      "author": "锅铲居士",
+      "published": "2026-04-08",
+      "duration": 292,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV193DLBZEeG"
     }
   },
   {
@@ -1159,9 +1316,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106005092/",
     "video": {
-      "title": "厨师长教您红烧肉焖板栗的家常做法，肥而不腻，软糯入味【红纱肉焖板栗】 - YouTube",
-      "url": "https://www.youtube.com/watch?v=Ijv94edgDog",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1qTkCBdEyN/",
+      "title": "花20多在家给小杨做板栗红烧肉！",
+      "author": "张大厨和甜小厨",
+      "published": "2025-11-11",
+      "duration": 84,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qTkCBdEyN"
     }
   },
   {
@@ -1220,9 +1385,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/9730/",
     "video": {
-      "title": "红烧排骨最好吃的做法！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1MoqUYSE3R/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1sAybY6Ea2/",
+      "title": "【红烧排骨】从炒糖色开始，手把手包教包会！",
+      "author": "村驴",
+      "published": "2024-10-20",
+      "duration": 209,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sAybY6Ea2"
     }
   },
   {
@@ -1281,9 +1454,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104576709/",
     "video": {
-      "title": "厨师长教你：“糖醋排骨”的传统做法，简单易学赶紧收藏_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Ws41157vT/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1Kf6FB5EuS/",
+      "title": "年夜饭糖醋排骨超详细教程！做法简单巨好吃",
+      "author": "袁锐-萌新的圆",
+      "published": "2026-01-29",
+      "duration": 296,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Kf6FB5EuS"
     }
   },
   {
@@ -1327,9 +1508,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/100408493/",
     "video": {
-      "title": "厨师长教你：“香菇豆豉蒸排骨”的家常做法，味道非常棒_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV15s411778B/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV18uaH6bEJq/",
+      "title": "豆豉蒸排骨",
+      "author": "学无止境LF",
+      "published": "2026-09-29",
+      "duration": 65,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV18uaH6bEJq"
     }
   },
   {
@@ -1373,9 +1562,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/1075597/",
     "video": {
-      "title": "〖火筵家常〗火哥教你传统川菜粉蒸排骨_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1ks411T7m7/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1X74dzaE1w/",
+      "title": "粉蒸排骨这样做软糯入味，鲜嫩不柴，做法还特别简单#粉蒸排骨",
+      "author": "大叔小厨房",
+      "published": "2025-08-05",
+      "duration": 69,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1X74dzaE1w"
     }
   },
   {
@@ -1429,9 +1626,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/47573/",
     "video": {
-      "title": "土豆炖排骨，饱饱的幸福感！！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Kv411q766/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1uqwtzUEo8/",
+      "title": "土豆炖排骨家常做法，不用炒糖色",
+      "author": "随便起的名cy",
+      "published": "2026-03-14",
+      "duration": 109,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uqwtzUEo8"
     }
   },
   {
@@ -1470,9 +1675,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106576486/",
     "video": {
-      "title": "厨师长分享：\"莲藕排骨汤\"的家常做法，味道很赞火候足_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1aK411G7GH/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1gdpu6KEcd/",
+      "title": "湖北莲藕排骨汤，鲜嫩入味，暖心暖胃",
+      "author": "老解的舅舅是厨子",
+      "published": "2026-10-11",
+      "duration": 61,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gdpu6KEcd"
     }
   },
   {
@@ -1511,9 +1724,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/35632/",
     "video": {
-      "title": "春日美食：冬瓜排骨汤的做法，汤浓肉香，营养又好喝_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1dx421k7dC/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1Rod6YHEkc/",
+      "title": "一碗会呼吸的冬瓜排骨汤",
+      "author": "大馋丫头的饲养员",
+      "published": "2025-04-13",
+      "duration": 75,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Rod6YHEkc"
     }
   },
   {
@@ -1557,9 +1778,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/100386973/",
     "video": {
-      "title": "寻找宝藏街头美食营养美味！玉米排骨汤的做法-1_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1NF4LeVEMN/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1BRqZBHEWD/",
+      "title": "排骨汤的秘诀！怎么做到汤汁浓白不腻？玉米排骨汤超详细教程",
+      "author": "袁锐-萌新的圆",
+      "published": "2025-12-19",
+      "duration": 145,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BRqZBHEWD"
     }
   },
   {
@@ -1598,9 +1827,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107286414/",
     "video": {
-      "title": "秋冬养生山药排骨汤家常做法，健脾养胃，汤鲜浓郁_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Kt4y1v7AA",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1xRpTzuEAT/",
+      "title": "做法简单的玉米山药排骨汤，汤汁浓郁，排骨软烂入味，营养丰富又美味。",
+      "author": "二婶儿教做菜",
+      "published": "2025-09-15",
+      "duration": 96,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xRpTzuEAT"
     }
   },
   {
@@ -1639,9 +1876,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107080820/",
     "video": {
-      "title": "海带排骨汤好喝有技巧，大厨教你方法，汤鲜排骨香，没有一点腥味_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Uh411v7Ct/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV13sGdzoEAV/",
+      "title": "夏天喝的最多的海带排骨汤！清甜好喝又简单",
+      "author": "是个小布丁",
+      "published": "2025-05-03",
+      "duration": 114,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV13sGdzoEAV"
     }
   },
   {
@@ -1680,9 +1925,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/1001847/",
     "video": {
-      "title": "炖白萝卜排骨汤时，切记不要焯水，教你一招，_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1c3411f7je/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1rL6BYmEWT/",
+      "title": "外婆的味道超治愈｜还原记忆中的萝卜排骨汤 ｜Jrake｜",
+      "author": "Hey-Jrake",
+      "published": "2025-01-02",
+      "duration": 170,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1rL6BYmEWT"
     }
   },
   {
@@ -1736,9 +1989,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107152358/",
     "video": {
-      "title": "黄豆炖猪蹄正确家常做法，软烂入味不油腻，上桌后连汤都不剩,美食,菜谱,好看视频",
-      "url": "https://haokan.baidu.com/v?pd=wisenatural&vid=7967550603049895370",
-      "platform": "好看视频"
+      "url": "https://www.bilibili.com/video/BV1Ea2bYqEh6/",
+      "title": "自制黄磊同款的黄豆炖猪蹄，2斤黄酒熬出来原来这么好吃",
+      "author": "馋大鑫",
+      "published": "2024-10-13",
+      "duration": 504,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ea2bYqEh6"
     }
   },
   {
@@ -1797,9 +2058,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104834851/",
     "video": {
-      "title": "厨师长教你：“红烧猪蹄”的家常做法，色泽红亮，软糯脱骨_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1RF411Y73S/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1GPqmB2ETq/",
+      "title": "红烧猪蹄保姆级教程，软糯Q弹，不臭不腥！",
+      "author": "董小厨家常菜",
+      "published": "2025-12-21",
+      "duration": 87,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GPqmB2ETq"
     }
   },
   {
@@ -1848,9 +2117,17 @@ const recipes = [
     ],
     "source": "https://home.meishichina.com/recipe-605044.html",
     "video": {
-      "title": "下奶的月子餐：花生炖猪蹄，汤汁奶白不发涩_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1N44y1473J/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1tCY96EEe2/",
+      "title": "花生炖猪蹄，猪蹄软糯入味长，花生绵柔满口香",
+      "author": "柳柳暖餐",
+      "published": "2026-09-12",
+      "duration": 138,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tCY96EEe2"
     }
   },
   {
@@ -1899,9 +2176,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107467178/",
     "video": {
-      "title": "教程丨厨者王波·认真做菜 葱烧大排(葱烤大排) 葱香浓郁，酱汁裹满的下饭神菜！爱吃肉的小伙伴们抓紧做起来吧！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1z7ZLYfEuM/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV18mR1BJEBc/",
+      "title": "当你想做“葱烧大排”就把这部视频翻出来",
+      "author": "美食强",
+      "published": "2026-05-05",
+      "duration": 172,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV18mR1BJEBc"
     }
   },
   {
@@ -1945,9 +2230,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/102266071/",
     "video": {
-      "title": "香煎猪排配苹果做法，带骨里脊肉又嫩又多汁， 配上苹果的小诀窍一看就会_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1y6421M7oh/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1L6jKzMEdM/",
+      "title": "不需要太多复杂的调料，也不需要花太多的时间，看一眼就能学会的香煎猪排，比外面卖的还好吃#香煎猪排",
+      "author": "韩小厨爱美食",
+      "published": "2025-05-25",
+      "duration": 194,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1L6jKzMEdM"
     }
   },
   {
@@ -2001,9 +2294,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/102179578/",
     "video": {
-      "title": "〖美味的中华料理荤菜①〗一道周恩来总理在日本留学期间最爱吃的菜——清蒸狮子头。_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1rr421J7hM/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV18qXiBEEvW/",
+      "title": "都喜欢吃的清蒸狮子头，做法教程分享给大家",
+      "author": "河北方菜",
+      "published": "2026-03-31",
+      "duration": 47,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": true,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV18qXiBEEvW"
     }
   },
   {
@@ -2062,9 +2363,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106984785/",
     "video": {
-      "title": "隋卞一做 |超好吃！淮扬名菜红烧狮子头正宗做法！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1hp4y1T7dU/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1K3wYeaEew/",
+      "title": "一口软糯多汁！年夜饭必做红烧狮子头，超详细教程",
+      "author": "袁锐-萌新的圆",
+      "published": "2025-01-21",
+      "duration": 164,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1K3wYeaEew"
     }
   },
   {
@@ -2108,9 +2417,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106996955/",
     "video": {
-      "title": "糯米珍珠丸子好吃有诀窍，学会这个特色做法，出锅一口气吃了10个_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1ib411w7Ka/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1UAc5z6ES3/",
+      "title": "珍珠丸子",
+      "author": "夏叔有好货",
+      "published": "2026-02-13",
+      "duration": 60,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1UAc5z6ES3"
     }
   },
   {
@@ -2159,9 +2476,17 @@ const recipes = [
     ],
     "source": "https://hanwuji.xiachufang.com/recipe/259955/",
     "video": {
-      "title": "怎么做冬瓜汆丸子滑嫩不散花？拌肉馅方法是秘诀，丸子汤鲜超解馋_哔哩哔哩_bilibili",
       "url": "https://www.bilibili.com/video/BV15dzAY6ECY/",
-      "platform": "哔哩哔哩"
+      "title": "怎么做冬瓜汆丸子滑嫩不散花？拌肉馅方法是秘诀，丸子汤鲜超解馋",
+      "author": "老东北美食",
+      "published": "2024-11-26",
+      "duration": 264,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV15dzAY6ECY"
     }
   },
   {
@@ -2205,9 +2530,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104040798/",
     "video": {
-      "title": "用烤箱一键搞定美味的香菇酿肉！咬一口有三重味道！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1uE411e7uG/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1LLS1BCEHo/",
+      "title": "一口一个的香菇酿肉，鲜嫩爆汁满口留香",
+      "author": "波子减肥食单",
+      "published": "2025-12-01",
+      "duration": 70,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LLS1BCEHo"
     }
   },
   {
@@ -2256,9 +2589,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/100443864/",
     "video": {
-      "title": "青椒酿肉受欢迎的两种做法，酿炸椒盒金黄酥脆，酿焖青椒咸香下饭_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1La4y1e7N6/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV15hhVztEDK/",
+      "title": "青椒酿肉的家常做法，肉嫩多汁口感丰富，简单又下饭！",
+      "author": "干饭研究员煮夫食光机",
+      "published": "2025-08-04",
+      "duration": 76,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV15hhVztEDK"
     }
   },
   {
@@ -2307,9 +2648,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106822699/",
     "video": {
-      "title": "厨师长分享：“苦瓜酿肉”的家常做法，四伯连说好吃，先收藏了_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Kt4y1y7MA/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV18aRqBtEhj/",
+      "title": "自制美食｜一口沦陷的下饭神器 苦瓜酿肉🌼",
+      "author": "小鹿多吃点",
+      "published": "2026-05-04",
+      "duration": 64,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV18aRqBtEhj"
     }
   },
   {
@@ -2348,9 +2697,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103677882/",
     "video": {
-      "title": "王刚肉末蒸蛋_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1qt411d7pp/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1tPY5zXEeN/",
+      "title": "当你想吃“肉末蒸蛋”就把这部视频翻出来",
+      "author": "美食强",
+      "published": "2025-09-07",
+      "duration": 133,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tPY5zXEeN"
     }
   },
   {
@@ -2384,9 +2741,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/92267/",
     "video": {
-      "title": "[Eng Sub]咸蛋蒸肉饼 Steamed pork mince with salted duck egg recipe - YouTube",
-      "url": "https://www.youtube.com/watch?v=9gPXg5JirDY",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1k3Lh6cEw9/",
+      "title": "我做的【咸蛋蒸肉饼】一想家就会想起的味道｜老广家常菜【yannie_yuen】",
+      "author": "yannie_yuen",
+      "published": "2026-05-22",
+      "duration": 118,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1k3Lh6cEw9"
     }
   },
   {
@@ -2425,9 +2790,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107182937/",
     "video": {
-      "title": "广东家家都会做的梅菜蒸肉饼，做法原来这么简单，滑嫩鲜香超下饭_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Vbt5etEWX/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1mTGnzHErv/",
+      "title": "梅菜蒸肉饼，在家怎么做出饭店的味道一个视频教会你",
+      "author": "大麦食记",
+      "published": "2025-07-08",
+      "duration": 74,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mTGnzHErv"
     }
   },
   {
@@ -2471,9 +2844,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106628520/",
     "video": {
-      "title": "大厨教你经典湘菜“萝卜干炒腊肉”，简单易学，脆爽可口又下饭_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Fo4y1H7Yr/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1Bk2dYyE5k/",
+      "title": "萝卜干炒腊肉是我们湖南的一道经典湘菜",
+      "author": "厨师长老阳01",
+      "published": "2024-10-15",
+      "duration": 71,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Bk2dYyE5k"
     }
   },
   {
@@ -2512,9 +2893,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106257580/",
     "video": {
-      "title": "蒜苗炒腊肉很多人第一步就做错了，大厨告诉你正确做法，腊肉不柴_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Lm4y1d7pB/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1VhBNYrEi3/",
+      "title": "腊肉到底是生炒还是熟炒？蒸出来炒还是煮出来炒？整块蒸煮还是切片蒸煮？这道川味#蒜苗炒腊肉 告诉大家。",
+      "author": "倔强的南溪",
+      "published": "2024-12-16",
+      "duration": 126,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VhBNYrEi3"
     }
   },
   {
@@ -2558,9 +2947,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103841969/",
     "video": {
-      "title": "酸菜炖白肉，也叫猪肉炖粉条，东北菜 - YouTube",
-      "url": "https://www.youtube.com/watch?v=BTyFYvZJquw",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1hQFBeQEaH/",
+      "title": "过年了来一道纯纯的东北炖菜酸菜炖白肉，浓香酸爽的东北味",
+      "author": "老隐记",
+      "published": "2025-02-02",
+      "duration": 359,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hQFBeQEaH"
     }
   },
   {
@@ -2619,9 +3016,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/1004782/",
     "video": {
-      "title": "厨师长教你：“红烧牛肉”的家常做法，软烂入味，肉香四溢_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1eT411M7Hj/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV13p4yzhESH/",
+      "title": "红烧牛肉超详细教程！新手也能轻松学会",
+      "author": "袁锐-萌新的圆",
+      "published": "2025-10-13",
+      "duration": 255,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV13p4yzhESH"
     }
   },
   {
@@ -2680,9 +3085,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107208910/",
     "video": {
-      "title": "番茄炖牛腩 | 家常做法只看这一篇就够了！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1L3pEeZEwU/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV14Npc6MEi8/",
+      "title": "番茄炖牛腩正确做法，肉嫩不柴汤汁超下饭！",
+      "author": "小当家烹饪日记",
+      "published": "2026-10-06",
+      "duration": 133,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV14Npc6MEi8"
     }
   },
   {
@@ -2736,9 +3149,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107316102/",
     "video": {
-      "title": "土豆炖牛肉的做法，牛肉软烂入味，土豆软糯，上桌连汤汁都不剩_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Pz4y1d7kR/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1kYEE6MEv2/",
+      "title": "土豆炖牛肉！调料不多，操作简单！好吃！！！下饭！！！",
+      "author": "丽丽教做菜-",
+      "published": "2026-06-09",
+      "duration": 112,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kYEE6MEv2"
     }
   },
   {
@@ -2792,9 +3213,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107682039/",
     "video": {
-      "title": "萝卜炖牛腩怎么做好吃技巧分享，超简单的家常做法推荐,健康又美味，一学就会，好吃到爆_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV11341157gL/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1v2UeYJE3b/",
+      "title": "当你想吃\"萝卜炖牛腩\"就把这部视频翻出来学着做！",
+      "author": "美食强",
+      "published": "2024-11-16",
+      "duration": 187,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1v2UeYJE3b"
     }
   },
   {
@@ -2858,9 +3287,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/106777910/",
     "video": {
-      "title": "咖喱牛肉土豆的做法，淋到米饭上面，味道绝了！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1864TzpEen/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1v8zkBgEMG/",
+      "title": "这盘咖喱牛肉，越吃越掉秤！(赚币换名字中）",
+      "author": "又减肥的徐老师",
+      "published": "2026-01-24",
+      "duration": 61,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1v8zkBgEMG"
     }
   },
   {
@@ -2909,9 +3346,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107606232/",
     "video": {
-      "title": "杭椒牛柳，牛肉滑嫩的方法在这里_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1ak4y1m7eX/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1JEYh6TExW/",
+      "title": "杭椒牛柳，牛肉嫩滑不柴",
+      "author": "纽澜地黑牛",
+      "published": "2026-09-10",
+      "duration": 93,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JEYh6TExW"
     }
   },
   {
@@ -2965,9 +3410,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106974651/",
     "video": {
-      "title": "黑椒牛柳做法：用东菱绞肉机处理牛里脊，搭配黑椒酱炒制，嫩滑入味，15分钟出锅。家庭晚餐轻松搞定，家人夸手艺！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1dLArzPEmD/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1BdM76TESn/",
+      "title": "黑椒牛柳",
+      "author": "随便小厨房",
+      "published": "2026-07-09",
+      "duration": 214,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BdM76TESn"
     }
   },
   {
@@ -3016,9 +3469,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/101890216/",
     "video": {
-      "title": "上海妈妈教你“蚝油牛肉”家常做法，鲜嫩入味，下酒又下饭！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1wJ411D7vb/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV156nJzJEUa/",
+      "title": "如何做出鲜美滑嫩的肉类小炒？以蚝油牛肉为例",
+      "author": "杨光_建厨师",
+      "published": "2025-09-27",
+      "duration": 250,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV156nJzJEUa"
     }
   },
   {
@@ -3067,9 +3528,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/28181/",
     "video": {
-      "title": "地道云南菜系之『芹菜炒牛肉』_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1L8411q7DK/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1GD9HYoEEo/",
+      "title": "云南传统菜：芹菜炒牛肉",
+      "author": "滇味纪云南家常菜",
+      "published": "2025-03-04",
+      "duration": 202,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GD9HYoEEo"
     }
   },
   {
@@ -3123,9 +3592,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107282880/",
     "video": {
-      "title": "香菜牛肉的做法，香菜炒牛肉这样做，每次都能吃下三碗米饭_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV13d4y1y7Be",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1mxEezME63/",
+      "title": "厨师长教你：“香菜炒牛肉”的家常做法，香辣入味，拌饭拌面绝了",
+      "author": "美食作家王刚R",
+      "published": "2025-05-14",
+      "duration": 189,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mxEezME63"
     }
   },
   {
@@ -3189,9 +3666,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107039473/",
     "video": {
-      "title": "家常菜小炒黄牛肉这样做法最嫩滑，牛肉不再腌_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1ev411C7JV/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV13Yao6fEjS/",
+      "title": "小炒黄牛肉超详细教程！做法简单巨好吃",
+      "author": "袁锐-萌新的圆",
+      "published": "2026-10-05",
+      "duration": 264,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV13Yao6fEjS"
     }
   },
   {
@@ -3240,9 +3725,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104538725/",
     "video": {
-      "title": "洋葱炒牛肉超详细教程，小白也可以做出嫩滑不柴的牛肉！_哔哩哔哩_bilibili",
       "url": "https://www.bilibili.com/video/BV1CWCTBwEMg/",
-      "platform": "哔哩哔哩"
+      "title": "洋葱炒牛肉超详细教程，小白也可以做出嫩滑不柴的牛肉！",
+      "author": "袁锐-萌新的圆",
+      "published": "2025-11-14",
+      "duration": 245,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CWCTBwEMg"
     }
   },
   {
@@ -3291,9 +3784,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/102191147/",
     "video": {
-      "title": "大厨教你杏鲍菇炒牛肉家常做法，步骤详细，鲜嫩多汁，下酒下饭 - YouTube",
-      "url": "https://www.youtube.com/watch?v=45gWmme72x4",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1N5eRzwErf/",
+      "title": "杏鲍菇炒牛肉教程",
+      "author": "厨师长老阳01",
+      "published": "2025-08-25",
+      "duration": 101,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1N5eRzwErf"
     }
   },
   {
@@ -3342,9 +3843,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/45802/",
     "video": {
-      "title": "巨简单下饭菜🥦鲜香嫩滑的西兰花炒牛肉🐮_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV11G411R7sE/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV18TMt6DE4f/",
+      "title": "西兰花炒牛肉粒，肉质弹牙蔬菜清甜超下饭",
+      "author": "大麦食记",
+      "published": "2026-07-07",
+      "duration": 92,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV18TMt6DE4f"
     }
   },
   {
@@ -3398,9 +3907,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/1000901/",
     "video": {
-      "title": "鲜香热辣 超赞的沙茶风味〖沙茶牛肉煲〗_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1C94y177Wx/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1Uqi9BWECV/",
+      "title": "沙茶牛肉煲不止是简单，味道更是一绝超级下饭！",
+      "author": "冯小厨的菜谱",
+      "published": "2026-01-08",
+      "duration": 265,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Uqi9BWECV"
     }
   },
   {
@@ -3454,9 +3971,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106814029/",
     "video": {
-      "title": "牛肉做法里孜然牛肉应该算的上下酒又下饭的_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1jKoaBZEuF/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1V8znYHEV5/",
+      "title": "当你想吃“孜然牛肉”就把这部视频翻出来学着做！",
+      "author": "美食强",
+      "published": "2024-11-30",
+      "duration": 154,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1V8znYHEV5"
     }
   },
   {
@@ -3505,9 +4030,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/102147172/",
     "video": {
-      "title": "滑嫩不柴！双葱爆牛肉保姆级教程来啦！_哔哩哔哩_bilibili",
       "url": "https://www.bilibili.com/video/BV1JZbbzMEpy/",
-      "platform": "哔哩哔哩"
+      "title": "滑嫩不柴！双葱爆牛肉保姆级教程来啦！",
+      "author": "特厨做饭_",
+      "published": "2025-08-13",
+      "duration": 231,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JZbbzMEpy"
     }
   },
   {
@@ -3571,9 +4104,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107612211/",
     "video": {
-      "title": "四川水煮牛肉的家常做法，牛肉嫩滑入味有诀窍，香辣好吃又下饭_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Ke411J7HK/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1w3YvzBEdm/",
+      "title": "当你想做\"水煮牛肉\"就把这部视频翻出来",
+      "author": "美食强",
+      "published": "2025-08-16",
+      "duration": 199,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1w3YvzBEdm"
     }
   },
   {
@@ -3632,9 +4173,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107107265/",
     "video": {
-      "title": "亲妈级酸汤肥牛教程，这还能失败算我输。_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1qZ421y7Eu",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV19qe3zxEmv/",
+      "title": "好吃到没人可以拒绝，酸汤肥牛保姆级教程",
+      "author": "袁锐-萌新的圆",
+      "published": "2025-08-20",
+      "duration": 223,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV19qe3zxEmv"
     }
   },
   {
@@ -3683,9 +4232,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107130312/",
     "video": {
-      "title": "〖Meal Kit 4 OL〗韩国小姐姐教你做饭，今天吃金针菇肥牛_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1jv411h7cE/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1MvkiBWETa/",
+      "title": "别错过这个金针菇肥牛～秘制酱汁配方大公开！超级简单，巨香巨过瘾～",
+      "author": "孩儿他姥姥a",
+      "published": "2025-11-12",
+      "duration": 70,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MvkiBWETa"
     }
   },
   {
@@ -3734,9 +4291,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103891602/",
     "video": {
-      "title": "厨师长教你番茄肥牛炖土豆的家常做法，肉嫩汤浓，好吃又下饭_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1kr4y1w7D7/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1PCHLzREzT/",
+      "title": "20分钟搞定的超绝番茄肥牛土豆！好吃到起飞",
+      "author": "袁锐-萌新的圆",
+      "published": "2025-10-06",
+      "duration": 153,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PCHLzREzT"
     }
   },
   {
@@ -3785,9 +4350,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/106616303/",
     "video": {
-      "title": "教程丨厨者王波·认真做菜 土豆肥牛饭 简单上手又下饭，这不得三碗饭起步！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1WRTMzPEYH/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1qVXaBEEn6/",
+      "title": "土豆肥牛煲",
+      "author": "夏叔厨房",
+      "published": "2026-03-30",
+      "duration": 132,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qVXaBEEn6"
     }
   },
   {
@@ -3841,9 +4414,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106415913/",
     "video": {
-      "title": "番茄牛肉炖豆腐 | 绝妙CP、一锅端神仙下饭菜！_哔哩哔哩_bilibili",
       "url": "https://www.bilibili.com/video/BV1Cguz63EY8/",
-      "platform": "哔哩哔哩"
+      "title": "番茄牛肉炖豆腐 | 绝妙CP、一锅端神仙下饭菜！",
+      "author": "何时下厨",
+      "published": "2026-08-11",
+      "duration": 89,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Cguz63EY8"
     }
   },
   {
@@ -3887,9 +4468,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107079443/",
     "video": {
-      "title": "清炖牛肉最好吃的做法，汤鲜味美 软烂入味，真的太香了_哔哩哔哩_bilibili",
       "url": "https://www.bilibili.com/video/BV13QRDYkELR/",
-      "platform": "哔哩哔哩"
+      "title": "清炖牛肉最好吃的做法，汤鲜味美 软烂入味，真的太香了",
+      "author": "董小厨家常菜",
+      "published": "2025-04-05",
+      "duration": 176,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV13QRDYkELR"
     }
   },
   {
@@ -3938,9 +4527,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106970720/",
     "video": {
-      "title": "简单易做 | 潮汕白萝卜牛肉丸汤 #潮汕牛肉丸 #牛肉丸 #美食 #下饭菜 #妈呀太香了 - 抖音",
-      "url": "https://www.douyin.com/video/7675396378999574107",
-      "platform": "抖音"
+      "url": "https://www.bilibili.com/video/BV1PjKV6hEbh/",
+      "title": "【好好吃饭系列】牛肉丸萝卜汤",
+      "author": "扑棱滴筱妖",
+      "published": "2026-07-16",
+      "duration": 107,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PjKV6hEbh"
     }
   },
   {
@@ -3989,9 +4586,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107012521/",
     "video": {
-      "title": "葱爆羊肉，三叔盘出家常羊肉做法，在家吃出美味_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1nX4y157Bs/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1cuFszWEaz/",
+      "title": "当你想做“葱爆羊肉”就把这部视频翻出来",
+      "author": "美食强",
+      "published": "2026-02-07",
+      "duration": 161,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cuFszWEaz"
     }
   },
   {
@@ -4045,9 +4650,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107634439/",
     "video": {
-      "title": "〖小白级教程〗零失误的孜然羊肉做法·！比羊肉串好吃100倍！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1wRsteTEG3/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1XEaz6LEgA/",
+      "title": "孜然羊肉保姆级教学",
+      "author": "侯大厨不炒菜",
+      "published": "2026-10-01",
+      "duration": 98,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XEaz6LEgA"
     }
   },
   {
@@ -4106,9 +4719,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/35596/",
     "video": {
-      "title": "#老冯教你做#之《红焖羊肉》_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1fK411P74a/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1T3rLBxEBG/",
+      "title": "红焖羊肉超详细教程！做法巨简单无敌好吃！",
+      "author": "袁锐-萌新的圆",
+      "published": "2026-01-13",
+      "duration": 195,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1T3rLBxEBG"
     }
   },
   {
@@ -4147,9 +4768,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/107263429/",
     "video": {
-      "title": "大厨教你“萝卜炖羊肉”的家常做法，汤浓肉香，不腥不膻，先收藏了_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV11K4y1j71q/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1GeUUYRESi/",
+      "title": "立冬进补美食—萝卜炖羊肉的做法",
+      "author": "伏峻立FJL",
+      "published": "2024-11-21",
+      "duration": 100,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GeUUYRESi"
     }
   },
   {
@@ -4188,9 +4817,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/105945723/",
     "video": {
-      "title": "山药炖羊肉，汤浓白不膻，肉酥而不烂。好吃有营养～#寻味 #寻味上海 - YouTube",
-      "url": "https://www.youtube.com/watch?v=rvtxFHm6IeY",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV18bCRY9EVe/",
+      "title": "山药炖羊肉",
+      "author": "温县垆土铁棍山药哥",
+      "published": "2024-10-19",
+      "duration": 80,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV18bCRY9EVe"
     }
   },
   {
@@ -4234,9 +4871,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107457891/",
     "video": {
-      "title": "隋卞一做 |好喝到汗毛都竖起来！家庭版清炖羊肉标准做法！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Ap421Q7WW/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1nyHC6mEFP/",
+      "title": "清炖羊肉",
+      "author": "特厨鲍智德",
+      "published": "2026-10-07",
+      "duration": 213,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nyHC6mEFP"
     }
   },
   {
@@ -4275,9 +4920,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/103500603/",
     "video": {
-      "title": "羊肉炖白菜，羊肉最忌焯水，大厨教你正确做法，暖心暖胃又营养_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1hN411L7iB/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1HTuqz1ETC/",
+      "title": "徐州的羊肉炖白菜，太香了吧！",
+      "author": "九亿少女爱做饭",
+      "published": "2025-07-14",
+      "duration": 102,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HTuqz1ETC"
     }
   },
   {
@@ -4326,9 +4979,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104621310/",
     "video": {
-      "title": "冬瓜羊肉丸子汤好喝有诀窍，教你饭店不外传秘诀，鲜嫩多汁还不膻 - YouTube",
-      "url": "https://www.youtube.com/watch?v=lK0Cck5nHN4",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1dJ8yzGE5H/",
+      "title": "三伏天多吃冬瓜羊肉丸子汤，美容养颜，排毒排湿！",
+      "author": "歌儿的小饭桌",
+      "published": "2025-07-31",
+      "duration": 79,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dJ8yzGE5H"
     }
   },
   {
@@ -4382,9 +5043,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/107276114/",
     "video": {
-      "title": "羊肉炖羊肉炖土豆，不焯水不炒糖色，最简单家常的做法，比饭店里还要好吃的味道_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Fq4y1D7Xa/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1c79cBuEJA/",
+      "title": "谁能拒绝一锅软烂入味的羊肉炖土豆！",
+      "author": "苏苏爱做饭_",
+      "published": "2026-04-02",
+      "duration": 47,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": true,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1c79cBuEJA"
     }
   },
   {
@@ -4423,9 +5092,9 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/104064199/",
     "video": {
-      "title": "鹏厨分享：羊肉炖豆腐的制作方法，冬天炖一锅，天越冷吃着越舒服 - YouTube",
-      "url": "https://www.youtube.com/watch?v=15Lc4K4nkcQ",
-      "platform": "YouTube"
+      "status": "pending",
+      "embed": false,
+      "metadataVerified": false
     }
   },
   {
@@ -4494,9 +5163,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106060932/",
     "video": {
-      "title": "〖宫保鸡丁〗这才是宫保鸡丁的正确做法！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1VW411n7Dm/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1KQvhBQEFK/",
+      "title": "宫保鸡丁老式做法！",
+      "author": "董小厨家常菜",
+      "published": "2025-12-30",
+      "duration": 81,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KQvhBQEFK"
     }
   },
   {
@@ -4550,9 +5227,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107092560/",
     "video": {
-      "title": "黄焖鸡，不炒糖色的做法_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1SS4y1S7yC/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1m3XnY6EwX/",
+      "title": "一次颠勺，三天受益！每天都可以吃到新鲜的带饭黄焖鸡！",
+      "author": "安秋金",
+      "published": "2025-03-23",
+      "duration": 236,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1m3XnY6EwX"
     }
   },
   {
@@ -4611,9 +5296,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/13704/",
     "video": {
-      "title": "厨师长教你：“三杯鸡”的家常做法，汁香味浓，鲜嫩爽滑_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1QR4y1p7Ac/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV12Wh9zsE71/",
+      "title": "香喷喷的台式三杯鸡，做法简单味道好极了！",
+      "author": "冯小厨的菜谱",
+      "published": "2025-08-29",
+      "duration": 257,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV12Wh9zsE71"
     }
   },
   {
@@ -4657,9 +5350,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104159249/",
     "video": {
-      "title": "真正的可乐鸡翅做法_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Cm4y1q7zU/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1z3F1zkExH/",
+      "title": "年夜饭可乐鸡翅超详细教程！做法简单巨好吃",
+      "author": "袁锐-萌新的圆",
+      "published": "2026-02-13",
+      "duration": 197,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1z3F1zkExH"
     }
   },
   {
@@ -4703,9 +5404,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107733835/",
     "video": {
-      "title": "这才是“红烧鸡翅”的正宗做法，大厨详细讲解，还没看完我就饿了_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1hP4y1V7ya/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1supxzQEB4/",
+      "title": "好吃到舔盘！红烧鸡翅超详细保姆级教程",
+      "author": "袁锐-萌新的圆",
+      "published": "2025-09-17",
+      "duration": 205,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1supxzQEB4"
     }
   },
   {
@@ -4749,9 +5458,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/100020776/",
     "video": {
-      "title": "土豆炖鸡块的做法，鲜嫩多汁，做法简单便捷_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1zE411i7R1/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1r3VazGEzF/",
+      "title": "【新土豆炖鸡】咕噜咕噜的一大锅炖菜，搭配凉拌皮蛋豆腐很不错",
+      "author": "夏妈厨房Bili",
+      "published": "2025-05-07",
+      "duration": 141,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1r3VazGEzF"
     }
   },
   {
@@ -4795,9 +5512,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/260784/",
     "video": {
-      "title": "香菇炖鸡，鸡肉还是家乡的好吃，加点莲子，红枣， 汤鲜肉美入味_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1tr4y1h7Ce/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1SgQDYfEu3/",
+      "title": "香菇炖鸡腿，鲜香美味口感软嫩，老人孩子都爱吃",
+      "author": "水中月的美食日记",
+      "published": "2025-03-15",
+      "duration": 69,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SgQDYfEu3"
     }
   },
   {
@@ -4841,9 +5566,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/100448798/",
     "video": {
-      "title": "妈妈做了那么多次板栗烧鸡，这个做法最简单好吃了！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV17W4y1J7B6/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1iAyaYTE1h/",
+      "title": "吃板栗的季节怎能少了\"板栗烧鸡\"做法实用接地气",
+      "author": "美食强",
+      "published": "2024-10-20",
+      "duration": 199,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1iAyaYTE1h"
     }
   },
   {
@@ -4897,9 +5630,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103032731/",
     "video": {
-      "title": "跟着床哥学做菜之四，啤酒鸡_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1ZT4y1h7wa/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1jAfhBZEiM/",
+      "title": "啤酒鸡腿",
+      "author": "海边的森哥",
+      "published": "2026-02-25",
+      "duration": 369,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jAfhBZEiM"
     }
   },
   {
@@ -4958,9 +5699,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107611786/",
     "video": {
-      "title": "用小盘子盛还叫大盘鸡吗 尝试粉丝分享大盘鸡的做法_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/av52012955/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1eHH163Ed3/",
+      "title": "今天用几个鸡腿做的大盘鸡，做法简单，土豆软糯，鸡肉鲜香入味，拌米饭，拉条子都美的很！",
+      "author": "灶台拾光",
+      "published": "2026-10-07",
+      "duration": 92,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eHH163Ed3"
     }
   },
   {
@@ -5019,9 +5768,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/100466597/",
     "video": {
-      "title": "大厨教你做一道黄金咖喱鸡，色香味俱全，108道吃鸡做法第十期_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1tx41197VK/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1Du8ezuEKK/",
+      "title": "懒人必备｜随心配❗️治愈系咖喱鸡",
+      "author": "憨式厨房",
+      "published": "2025-07-27",
+      "duration": 77,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Du8ezuEKK"
     }
   },
   {
@@ -5070,9 +5827,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104463865/",
     "video": {
-      "title": "照烧鸡腿做法：鸡腿腌制后煎熟，加照烧汁小火收汁，鲜嫩入味，30分钟搞定美味晚餐。_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1iGpJzxEy8/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1R3pf6JErs/",
+      "title": "这个照烧鸡腿饭太好吃了米饭裹着酱汁巨下饭",
+      "author": "四孩宝妈辅食日记",
+      "published": "2026-10-13",
+      "duration": 80,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1R3pf6JErs"
     }
   },
   {
@@ -5116,9 +5881,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106458948/",
     "video": {
-      "title": "教你做很香嫩还多汁🍗｜西班牙蒜香鸡腿🍗_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1PG4y1x7ii/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1RBNX6REU2/",
+      "title": "减脂期的解馋神器！无油蒜香鸡腿！",
+      "author": "火焰魔法师gogo",
+      "published": "2026-07-15",
+      "duration": 74,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RBNX6REU2"
     }
   },
   {
@@ -5162,9 +5935,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106927351/",
     "video": {
-      "title": "葱油焖鸡，教程分享。_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1SSpdexEkm/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1h8EK6QEid/",
+      "title": "以后鸡腿买回来，你就试试这个广东人最爱吃的葱油焖鸡，做法简单又好吃#葱油焖鸡",
+      "author": "韩小厨爱美食",
+      "published": "2026-06-08",
+      "duration": 82,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1h8EK6QEid"
     }
   },
   {
@@ -5203,9 +5984,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107434656/",
     "video": {
-      "title": "不加一滴水的电饭煲盐焗鸡，就这么简单！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1QQ4zeREcf/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1KAjz6aELx/",
+      "title": "不开火！巨香巨简单！｜懒人电饭煲盐焗鸡",
+      "author": "八戎吃什么",
+      "published": "2026-06-19",
+      "duration": 85,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KAjz6aELx"
     }
   },
   {
@@ -5249,9 +6038,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103944171/",
     "video": {
-      "title": "“香菇滑鸡”的家常做法，嫩滑多汁有窍门，做法简单易上手_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV12e411x7A3/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1nLeq64EGv/",
+      "title": "香菇滑鸡超详细教程！做法简单巨好吃！",
+      "author": "袁锐-萌新的圆",
+      "published": "2026-09-20",
+      "duration": 288,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nLeq64EGv"
     }
   },
   {
@@ -5295,9 +6092,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/100030885/",
     "video": {
-      "title": "厨房小白也能搞定！豆豉酱蒸鸡腿，一腌一蒸满屋飘香~_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Ej3JzYExs/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1QFt46NEeb/",
+      "title": "大家注意看，鸡腿买回来不要红烧炖汤了，你就像我这样做一道豉汁蒸鸡，鲜香嫩滑，我家三个儿子超爱吃#豉汁蒸鸡",
+      "author": "韩小厨爱美食",
+      "published": "2026-08-31",
+      "duration": 76,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QFt46NEeb"
     }
   },
   {
@@ -5341,9 +6146,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/257887/",
     "video": {
-      "title": "老广的味道，虫草花蒸鸡肉的做法，鸡肉鲜香嫩滑，老人小孩都爱吃_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1bJ411P7p6/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1AmXwBCEXq/",
+      "title": "【不吵不炸无油烟 鲜嫩多汁 虫草花蒸鸡翅】",
+      "author": "村驴",
+      "published": "2026-03-24",
+      "duration": 179,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AmXwBCEXq"
     }
   },
   {
@@ -5392,9 +6205,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/107301251/",
     "video": {
-      "title": "宝哥分享经典家庭菜式《金针云耳蒸鸡》-酒满饭宝-酒满饭宝-哔哩哔哩视频",
-      "url": "https://www.bilibili.com/video/BV1MKe1z1EZZ/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1vf5n6WEbB/",
+      "title": "老广经典家常菜金针云耳蒸鸡你们有多久没在家里蒸过啦？",
+      "author": "湾仔厨房_",
+      "published": "2026-05-11",
+      "duration": 138,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vf5n6WEbB"
     }
   },
   {
@@ -5438,9 +6259,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/102387574/",
     "video": {
-      "title": "5月14日疫起来做饭：人协导师教你药材鸡和香菇红枣蒸鸡肉 - YouTube",
-      "url": "https://www.youtube.com/watch?v=OVEijcod5Ig",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1w5U5Y6E5P/",
+      "title": "#陈皮花旗参红枣蒸鸡#陈皮花旗参红枣枸杞蒸鸡#蒸鸡",
+      "author": "宋包子泱泱",
+      "published": "2024-11-14",
+      "duration": 108,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1w5U5Y6E5P"
     }
   },
   {
@@ -5484,9 +6313,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107435299/",
     "video": {
-      "title": "靠吃73天瘦了28.2斤.轻盈度夏紧跟国家脚步 挑战从207斤瘦到120斤,带你看看跟着国家卫健委版减肥食谱吃有多简单，黑木耳蒸鸡_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1jcMFzwEZ1/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1L7TozXEAR/",
+      "title": "[老鸟Kitchen] 家常蒸菜：虫草花木耳蒸鸡",
+      "author": "老鸟Kitchen",
+      "published": "2025-06-09",
+      "duration": 77,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1L7TozXEAR"
     }
   },
   {
@@ -5525,9 +6362,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/107331084/",
     "video": {
-      "title": "山药炖鸡汤这样做味道绝了，汤浓味美营养健康，制作一点都不难！ - YouTube",
-      "url": "https://www.youtube.com/watch?v=W4IjVvXN6eA",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV18oHx61EGg/",
+      "title": "山药炖鸡",
+      "author": "看看锅里有啥好吃的",
+      "published": "2026-10-05",
+      "duration": 164,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV18oHx61EGg"
     }
   },
   {
@@ -5566,9 +6411,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/1059047/",
     "video": {
-      "title": "冬瓜燜雞    冬瓜滷的入味~比煮湯更好吃 方便的一鍋料理 很適合帶便當喔 - YouTube",
-      "url": "https://www.youtube.com/watch?v=pPMPIrQippY",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1AVxAzaEo4/",
+      "title": "因为冬瓜炖鸡太好吃了 特意录个视频",
+      "author": "恰如梦幻泡影",
+      "published": "2025-10-26",
+      "duration": 170,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AVxAzaEo4"
     }
   },
   {
@@ -5607,9 +6460,17 @@ const recipes = [
     ],
     "source": "https://www.sohu.com/a/498976835_121223552",
     "video": {
-      "title": "莲藕老鸡汤的做法，莲藕炖鸡汤怎么做才好吃，厨师长分享煲汤技巧 - YouTube",
-      "url": "https://www.youtube.com/watch?v=Oln2FfSvp7w",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1eB94YgEFq/",
+      "title": "莲藕炖鸡",
+      "author": "哈破是个小透明",
+      "published": "2025-03-05",
+      "duration": 72,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eB94YgEFq"
     }
   },
   {
@@ -5653,9 +6514,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107394504/",
     "video": {
-      "title": "椰子鸡的正确做法，一滴水也不放，椰香浓郁，汤汁鲜甜_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1464y1M7We/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1FP5n6wEff/",
+      "title": "不用去海南，在家就能吃到正宗的椰子鸡！鸡肉滑嫩，汤汁鲜甜！【椰子鸡】",
+      "author": "甜甜_食记",
+      "published": "2026-05-10",
+      "duration": 72,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1FP5n6wEff"
     }
   },
   {
@@ -5694,9 +6563,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103565944/",
     "video": {
-      "title": "清炖鸡汤做法｜不腥不柴汤鲜味美_有了#北鼎爱上煲汤这个大炖盅真的超实用！#清炖鸡汤#今日伙食-7481886470760893754_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV18YsPzCErG/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1srHPz4E1v/",
+      "title": "清炖鸡汤的做法",
+      "author": "莉扬妈妈",
+      "published": "2025-10-02",
+      "duration": 101,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1srHPz4E1v"
     }
   },
   {
@@ -5745,9 +6622,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/100375667/",
     "video": {
-      "title": "厨师长教你：“小鸡炖蘑菇”的家常做法，汤鲜肉美味，先收藏起来_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1pg4y1z7Ti/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV13qBLBoECH/",
+      "title": "小鸡炖蘑菇",
+      "author": "夏叔厨房",
+      "published": "2025-12-24",
+      "duration": 86,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV13qBLBoECH"
     }
   },
   {
@@ -5791,9 +6676,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/26479/",
     "video": {
-      "title": "芋儿鸡怎么做好吃，千万别加火锅底料，完全盖住了鸡肉的香味，多加这两样酱料，鸡肉鲜嫩入味芋头软烂绵软#下饭菜 #下酒菜 #家常菜 #芋头 #芋头焖鸡 #芋儿烧鸡 #芋头烧鸡 #红烧鸡块 #芋儿鸡#红烧鸡 - YouTube",
-      "url": "https://www.youtube.com/watch?v=U3p4fUfYKaM",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1A24Uz8EhA/",
+      "title": "芋头烧鸡是一道家常菜，芋头软糯鸡肉鲜嫩，尤其是汤汁泡饭是一绝",
+      "author": "老杨做菜",
+      "published": "2025-10-14",
+      "duration": 68,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1A24Uz8EhA"
     }
   },
   {
@@ -5847,9 +6740,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103725515/",
     "video": {
-      "title": "〖美食X情感〗越吃越好吃的辣子鸡丁，做法超简单，强烈推荐_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1JK411Q7B6/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1W4d3YnEYy/",
+      "title": "天津家常辣子鸡丁做法！巨下饭！",
+      "author": "摇滚大厨",
+      "published": "2025-04-10",
+      "duration": 143,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1W4d3YnEYy"
     }
   },
   {
@@ -5898,9 +6799,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106854480/",
     "video": {
-      "title": "青椒炒鸡丁的家常做法，鸡肉滑嫩，香辣入味，开胃好吃又下饭_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1hD421P7FW/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV16FvrBTEBC/",
+      "title": "潍坊人认证！这道青椒爆鸡丁才是米饭杀手天花板！鸡丁这样爆炒出来外香里嫩，青椒脆爽解腻，一口下去咸香入味",
+      "author": "郑能量好鲁菜",
+      "published": "2025-12-28",
+      "duration": 168,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV16FvrBTEBC"
     }
   },
   {
@@ -5944,9 +6853,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104677780/",
     "video": {
-      "title": "酱爆鸡丁的家常做法，挂汁均匀有技巧，下酒又下饭！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1xx42127gx/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1YBHh6PEcd/",
+      "title": "酱爆鸡丁",
+      "author": "夏叔有好货",
+      "published": "2026-10-03",
+      "duration": 162,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YBHh6PEcd"
     }
   },
   {
@@ -5985,9 +6902,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/104572461/",
     "video": {
-      "title": "【蚝油鸡翅】鸡年最容易做的一道鸡 - YouTube",
-      "url": "https://www.youtube.com/watch?v=5wzrFGScDKo",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1Th3p66EZZ/",
+      "title": "厨房小白也能一次成功的焦糖蚝油鸡翅，甜而不腻超下饭 #焦糖蚝油鸡翅 #鸡翅做法",
+      "author": "妹姐家常菜",
+      "published": "2026-07-30",
+      "duration": 81,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Th3p66EZZ"
     }
   },
   {
@@ -6041,9 +6966,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/102312150/",
     "video": {
-      "title": "Chef's Recipe for Tender, Juicy Black Pepper Chicken Cubes - Perfect for Meals or Drinks 黑椒鸡丁 多汁嫩滑 - YouTube",
-      "url": "https://www.youtube.com/watch?v=PgdEGBKAY6c",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1ixWRz4E8V/",
+      "title": "黑椒鸡丁",
+      "author": "蔡哥美食",
+      "published": "2025-10-21",
+      "duration": 101,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ixWRz4E8V"
     }
   },
   {
@@ -6092,9 +7025,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/107332551/",
     "video": {
-      "title": "东北地道的鸡块炖粉条，学会这种做法，鸡肉软烂粉条更加鲜美入味_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1pf4y1y7tJ/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV13YpY6uEjn/",
+      "title": "家常菜鸡肉炖粉条",
+      "author": "h孙鹤",
+      "published": "2026-10-10",
+      "duration": 205,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV13YpY6uEjn"
     }
   },
   {
@@ -6158,9 +7099,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/103155426/",
     "video": {
-      "title": "正宗重庆烧鸡公视频 烧鸡公的做法大全视频_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1hb411h7h7/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1bs9UYbEXV/",
+      "title": "来重庆一定要吃这道超级过瘾的重庆烧鸡公，芋儿耙糯，鸡肉紧致香糯",
+      "author": "猴哥爱做江湖菜",
+      "published": "2025-03-08",
+      "duration": 115,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bs9UYbEXV"
     }
   },
   {
@@ -6224,9 +7173,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106717090/",
     "video": {
-      "title": "鲜香入味的啤酒鸭做法_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1PB4y1T7no/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1EShc62EYx/",
+      "title": "【媲美饭店的啤酒鸭保姆级教程‼️ 】",
+      "author": "村驴",
+      "published": "2026-08-27",
+      "duration": 252,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EShc62EYx"
     }
   },
   {
@@ -6280,9 +7237,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106761211/",
     "video": {
-      "title": "广西酸笋仔姜鸭的做法，酸辣开胃超下饭，汤汁拌饭也能多吃两碗_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1CK4y1A7ZU/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1DcGnzxEHi/",
+      "title": "夏天必吃，四川特色姜爆鸭，这样做仔姜鸭真好吃",
+      "author": "周幺姑家常菜",
+      "published": "2025-07-08",
+      "duration": 165,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1DcGnzxEHi"
     }
   },
   {
@@ -6336,9 +7301,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/105816579/",
     "video": {
-      "title": "经典川菜“魔芋烧鸭”教程来了，鲜香入味，好吃不贵_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV18V411v7Af/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1wPiKBrEAu/",
+      "title": "带着我的魔芋烧鸭陪大家跨年啦！感谢大家一直以来的支持和喜欢，爱你们！",
+      "author": "杰西不妙厨房s",
+      "published": "2025-12-31",
+      "duration": 184,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wPiKBrEAu"
     }
   },
   {
@@ -6372,9 +7345,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/222583/",
     "video": {
-      "title": "毛哥酸萝卜老鸭汤做法。_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV13S4y1k7P3/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1AusLzfEC4/",
+      "title": "酸萝卜老鸭汤是真的香呀，酸爽入味不油腻，天冷来上一碗，暖暖和和",
+      "author": "鱼鱼开饭啦",
+      "published": "2025-10-24",
+      "duration": 84,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AusLzfEC4"
     }
   },
   {
@@ -6413,9 +7394,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106499250/",
     "video": {
-      "title": "一锅煨出冬瓜老鸭汤，做法简单，鲜气十足 #冬瓜老鸭汤 #老鸭汤 - 抖音",
-      "url": "https://www.douyin.com/video/7688210531500494121",
-      "platform": "抖音"
+      "url": "https://www.bilibili.com/video/BV1bMuVzoEc8/",
+      "title": "三伏天必喝！冬瓜老鸭汤这样做，清热祛湿又滋补，一碗胜过补药！",
+      "author": "阿城家常菜",
+      "published": "2025-07-11",
+      "duration": 83,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bMuVzoEc8"
     }
   },
   {
@@ -6454,9 +7443,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106054776/",
     "video": {
-      "title": "川渝地区的最爱，酸萝卜海带老鸭汤，开胃下饭比酒好喝_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Ph411D7Kj/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1TqujzvEYb/",
+      "title": "海带老鸭汤太好喝了",
+      "author": "是个小布丁",
+      "published": "2025-07-12",
+      "duration": 118,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TqujzvEYb"
     }
   },
   {
@@ -6495,9 +7492,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104430682/",
     "video": {
-      "title": "#我的假期生活图鉴 淮山红萝卜老鸭汤，健脾温润好喝#真实生活分享计划 #老鸭汤 #儿童营养汤家常做法 - 抖音",
-      "url": "https://www.douyin.com/video/7693153408219917801",
-      "platform": "抖音"
+      "url": "https://www.bilibili.com/video/BV1eDzkYjEPt/",
+      "title": "莱因小品-山药老鸭汤",
+      "author": "莱因乱弹琴锵锵锵",
+      "published": "2024-12-03",
+      "duration": 259,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eDzkYjEPt"
     }
   },
   {
@@ -6551,9 +7556,17 @@ const recipes = [
     ],
     "source": "https://home.meishichina.com/recipe-187776.html",
     "video": {
-      "title": "阿公买回一只鸭子，阿米做“香菇烧鸭”，色香味美巴适得板-美食米阿米-美食米阿米-哔哩哔哩视频",
-      "url": "https://www.bilibili.com/video/BV1DC4y1X7GM/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1PXX8YeEKb/",
+      "title": "一把香菇，半只鸭子，做个软烂入味的香菇焖鸭，巨香！",
+      "author": "机器猫吃什么",
+      "published": "2025-03-24",
+      "duration": 125,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PXX8YeEKb"
     }
   },
   {
@@ -6607,9 +7620,17 @@ const recipes = [
     ],
     "source": "https://home.meishichina.com/recipe-629325.html",
     "video": {
-      "title": "休息后开工的第一天，工友大哥们都很想念高师傅做的菜呀😅今天做的土豆烧鸭腿味道很不错☺️_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1cx4izxEdS/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1vwN36uE2T/",
+      "title": "土豆烧鸭出锅！朋友们来整起！",
+      "author": "灶火旁的阿牛",
+      "published": "2026-07-13",
+      "duration": 77,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vwN36uE2T"
     }
   },
   {
@@ -6663,9 +7684,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/100363460/",
     "video": {
-      "title": "没想到芋头焖鸭会这么好吃，软嫩入味，满屋飘香，你也试试吧-美食一线陈仔-美食一线陈仔-哔哩哔哩视频",
-      "url": "https://www.bilibili.com/video/BV1pP411b72k/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1QfgDz3Ei1/",
+      "title": "家常芋头烧鸭，酱香浓郁汤汁能拌饭，鸭肉去腥有技巧！",
+      "author": "大师的菜",
+      "published": "2025-07-01",
+      "duration": 226,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QfgDz3Ei1"
     }
   },
   {
@@ -6704,9 +7733,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107631030/",
     "video": {
-      "title": "张生记同款火腿笋干老鸭煲，家庭版做法真的不要太简单！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV13D4y1S72Z/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1RdGJzfE8C/",
+      "title": "Y20250708笋干老鸭煲1080",
+      "author": "简罡的私房美食",
+      "published": "2025-07-08",
+      "duration": 80,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RdGJzfE8C"
     }
   },
   {
@@ -6745,9 +7782,17 @@ const recipes = [
     ],
     "source": "https://home.meishichina.com/recipe-151891.html",
     "video": {
-      "title": "厨师长教你：“老鸭萝卜汤”的家常做法，天气冷了很适合老人孩子_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1ot411D7yG/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV114D5YEEGJ/",
+      "title": "萝卜老鸭汤，一口鲜醇暖心田~",
+      "author": "小林在学做菜",
+      "published": "2024-11-06",
+      "duration": 59,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": true,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV114D5YEEGJ"
     }
   },
   {
@@ -6801,9 +7846,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107326826/",
     "video": {
-      "title": "上海酱鸭腿的正确做法，好吃又好看，成本不到十块钱_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1v24y1y7QW/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1P3KWeLEu1/",
+      "title": "上海本帮菜-酱鸭腿",
+      "author": "一缈阳光-六月",
+      "published": "2025-02-13",
+      "duration": 120,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1P3KWeLEu1"
     }
   },
   {
@@ -6857,9 +7910,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106108141/",
     "video": {
-      "title": "吃了几十年鸭腿，烧鸭腿是最好吃的一种做法，色泽红亮冷热皆宜_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1ca4y1E72G/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1V7qYB6Ee7/",
+      "title": "红烧鸭腿",
+      "author": "gowish",
+      "published": "2025-12-16",
+      "duration": 92,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1V7qYB6Ee7"
     }
   },
   {
@@ -6913,9 +7974,17 @@ const recipes = [
     ],
     "source": "https://v6.duitang.com/blog/?id=581400288",
     "video": {
-      "title": "食堂毛豆烧鸭开胃下饭，做法简单一学就会,美食,美食教学,好看视频",
-      "url": "https://haokan.baidu.com/v?pd=wisenatural&vid=14498604881749235022",
-      "platform": "好看视频"
+      "url": "https://www.bilibili.com/video/BV194ckzZEq3/",
+      "title": "好吃的家常菜“毛豆烧鸭腿”，做法简单，全家人都爱吃",
+      "author": "家宴美食厨房",
+      "published": "2026-03-12",
+      "duration": 99,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV194ckzZEq3"
     }
   },
   {
@@ -6969,9 +8038,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/106989589/",
     "video": {
-      "title": "鲜辣过瘾的仔姜兔，仔姜的鲜味，配上兔肉的嫩滑，辣到停不下来！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1NP41177B3/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1d6qDYMEQq/",
+      "title": "仔姜兔 | 身边的重庆朋友极力推荐的江湖菜！",
+      "author": "何时下厨",
+      "published": "2024-12-11",
+      "duration": 87,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1d6qDYMEQq"
     }
   },
   {
@@ -7030,9 +8107,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103456803/",
     "video": {
-      "title": "朋友送来两只大肥兔，做个“红烧兔肉”，肉香味美，嘎嘎好吃-大蒙美食-大蒙美食-哔哩哔哩视频",
-      "url": "https://www.bilibili.com/video/BV1wF95YUEKe/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1s8aA6wEVr/",
+      "title": "干香的红烧兔肉太香了，酱香浓郁很入味，下酒又下饭",
+      "author": "旺仔汉堡堡",
+      "published": "2026-09-24",
+      "duration": 65,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1s8aA6wEVr"
     }
   },
   {
@@ -7086,9 +8171,17 @@ const recipes = [
     ],
     "source": "https://home.meishichina.com/recipe-348725.html",
     "video": {
-      "title": "土豆烧兔子",
       "url": "https://www.bilibili.com/video/BV15Cr8YnEtk/",
-      "platform": "哔哩哔哩"
+      "title": "土豆烧兔子",
+      "author": "刀哥炒兔",
+      "published": "2025-01-13",
+      "duration": 100,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV15Cr8YnEtk"
     }
   },
   {
@@ -7142,9 +8235,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/104646143/",
     "video": {
-      "title": "兔兔这么可爱，怎么做才炒好吃？3个方法让兔肉没有腥味，大厨教你双椒兔丁酒店做法，兔肉干香麻辣过瘾 #双椒兔丁 #麻辣兔丁 #香辣兔丁 #鲜椒兔 #兔丁 #下饭菜 #美食教程 #家常菜 #美食 #下酒菜 - YouTube",
-      "url": "https://www.youtube.com/watch?v=2sqWoe2iBZI",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1QPayzgEG2/",
+      "title": "重庆江湖菜-尖椒兔",
+      "author": "二刀会做菜",
+      "published": "2025-09-04",
+      "duration": 66,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QPayzgEG2"
     }
   },
   {
@@ -7203,9 +8304,9 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/100451098/",
     "video": {
-      "title": "厨师长教你自贡特色“小煎兔”，味道鲜辣，肉质细腻，下饭一绝_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1F8411f7ce/",
-      "platform": "哔哩哔哩"
+      "status": "pending",
+      "embed": false,
+      "metadataVerified": false
     }
   },
   {
@@ -7244,9 +8345,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/105937748/",
     "video": {
-      "title": "中餐厅林大厨清蒸鲈鱼的做法，家中也能做的很漂亮_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1FJ411T7Gt/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1ju9mBcE8n/",
+      "title": "很多人在家做清蒸鲈鱼，第一步就做错了，今天你就像我这样做，又鲜又嫩，真的特别好吃，做法也非常简单#清蒸鲈鱼",
+      "author": "韩小厨爱美食",
+      "published": "2026-04-29",
+      "duration": 65,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ju9mBcE8n"
     }
   },
   {
@@ -7305,9 +8414,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107610850/",
     "video": {
-      "title": "红烧鲈鱼大部分人不会做，厨师教你几招，视频详细分享，一看就会_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1e64y1v7RH/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV139cvemEqn/",
+      "title": "红烧鲈鱼，不用油炸煎鱼不粘锅不破皮，肉质鲜嫩入味不腥不柴，超好吃",
+      "author": "董小厨家常菜",
+      "published": "2025-01-15",
+      "duration": 269,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV139cvemEqn"
     }
   },
   {
@@ -7346,9 +8463,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106017928/",
     "video": {
-      "title": "广东大厨分享广东人最爱点的“清蒸多宝鱼”全教程欢迎收藏起来_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1JJ411w7qB/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1NFz4B1Ex1/",
+      "title": "年夜饭必备！3分钟速通「清蒸多宝鱼」：",
+      "author": "任芸丽",
+      "published": "2026-01-25",
+      "duration": 172,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NFz4B1Ex1"
     }
   },
   {
@@ -7407,9 +8532,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/1005142/",
     "video": {
-      "title": "教你在家做红烧带鱼、做法简单又好吃。@小彪美食_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Gx411E77w/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1dGhd68Eos/",
+      "title": "红烧带鱼想要软嫩不碎，鲜而不腥细节都在这个视频里了#美食 #热门",
+      "author": "刘小欠教做菜7",
+      "published": "2026-09-26",
+      "duration": 90,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dGhd68Eos"
     }
   },
   {
@@ -7473,9 +8606,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/1093569/",
     "video": {
-      "title": "当你想吃“糖醋带鱼”就把这部视频翻出来学着做_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Kw411P773/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1iuub6AE8M/",
+      "title": "外脆里嫩，糖醋带鱼，全家人的最爱",
+      "author": "爱做美食的洋咩咩",
+      "published": "2026-08-07",
+      "duration": 103,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1iuub6AE8M"
     }
   },
   {
@@ -7519,9 +8660,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/102257996/",
     "video": {
-      "title": "厨师长教你：“干煎带鱼”的家常做法，味道很赞，先收藏起来_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1m441177A8/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1inYJ6KEES/",
+      "title": "干煎带鱼",
+      "author": "眼镜蛇1876",
+      "published": "2026-09-08",
+      "duration": 208,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1inYJ6KEES"
     }
   },
   {
@@ -7560,9 +8709,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107041106/",
     "video": {
-      "title": "清蒸鳕鱼时，切记不要放盐和料酒腌制，教你一招，鱼肉鲜嫩无腥味_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1MJ4m1A7Nu/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1Woj1zfEEa/",
+      "title": "清蒸鳕鱼做法",
+      "author": "美食制作大师",
+      "published": "2025-05-26",
+      "duration": 54,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": true,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Woj1zfEEa"
     }
   },
   {
@@ -7606,9 +8763,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/102149915/",
     "video": {
-      "title": "Bowen的厨房：在家给女朋友做法式香煎鳕鱼配白芦笋/刚刚学会的荷兰酱这就用上了/颜值高又美味一学就会！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1nZ4y1p7UN/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV181ND6GEDA/",
+      "title": "香煎鳕鱼扒，外香里嫩鲜到骨子里",
+      "author": "二楼有食神",
+      "published": "2026-07-14",
+      "duration": 217,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV181ND6GEDA"
     }
   },
   {
@@ -7667,9 +8832,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/102260038/",
     "video": {
-      "title": "〖美食〗上海本帮菜-红烧黄鱼_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1CQ4y1z7Bd/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1MNpx6LEbJ/",
+      "title": "红烧黄鱼",
+      "author": "小梦爱吃饭呀",
+      "published": "2026-10-09",
+      "duration": 67,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MNpx6LEbJ"
     }
   },
   {
@@ -7708,9 +8881,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106497824/",
     "video": {
-      "title": "清蒸黄鱼不要直接上锅蒸，记住这1步，鱼肉鲜嫩无腥味_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV19K4y1U7ZV/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1ajgA6sEPj/",
+      "title": "谁懂啊！这清蒸黄花鱼也太好吃了吧！🐟",
+      "author": "kiwi厨房日记",
+      "published": "2026-08-14",
+      "duration": 94,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ajgA6sEPj"
     }
   },
   {
@@ -7759,9 +8940,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103566323/",
     "video": {
-      "title": "饭店厨师教做雪菜黄鱼，制作流程详细讲解，为过年准备一道拿手菜",
-      "url": "https://www.bilibili.com/video/BV1Db411A7pL/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1KNLWzwEpY/",
+      "title": "经典搭配之《雪菜黄鱼》",
+      "author": "观澜听雨1",
+      "published": "2025-04-26",
+      "duration": 81,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KNLWzwEpY"
     }
   },
   {
@@ -7820,9 +9009,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107031933/",
     "video": {
-      "title": "酒店大厨教你：“红烧鲳鱼”的做法，操作简单好吃_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1dK411H7fk/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1YoH86wE3K/",
+      "title": "红烧鲳鱼保姆级教程",
+      "author": "大庆是个厨",
+      "published": "2026-10-03",
+      "duration": 184,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YoH86wE3K"
     }
   },
   {
@@ -7861,9 +9058,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103521255/",
     "video": {
-      "title": "店主分享：“清蒸鲳鱼”的家常做法，鱼肉鲜嫩无比，大家都爱吃_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1hk4y117v3/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1LqMTzSEBN/",
+      "title": "清蒸鲳鱼真的是一道不会失败的菜，做法简单又鲜美，还不用怕吃到刺！",
+      "author": "糖油混合物9",
+      "published": "2025-06-13",
+      "duration": 109,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LqMTzSEBN"
     }
   },
   {
@@ -7907,9 +9112,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107527257/",
     "video": {
-      "title": "鲫鱼豆腐汤的家常做法_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1EQ4y1M7Ad/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1TpSjBjE52/",
+      "title": "鲫鱼豆腐汤超详细教程，如何做出奶白浓郁的鱼汤",
+      "author": "袁锐-萌新的圆",
+      "published": "2025-11-28",
+      "duration": 186,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TpSjBjE52"
     }
   },
   {
@@ -7953,9 +9166,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/104189046/",
     "video": {
-      "title": "萝卜丝鲫鱼汤，汤浓色白味道鲜（Fish soup) - YouTube",
-      "url": "https://www.youtube.com/watch?v=fDFGZDo8CZ0",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1DU61BmEzU/",
+      "title": "萝卜丝鲫鱼汤",
+      "author": "夏叔有好货",
+      "published": "2026-01-31",
+      "duration": 95,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1DU61BmEzU"
     }
   },
   {
@@ -8004,9 +9225,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/93207/",
     "video": {
-      "title": "大厨教你番茄鱼片的家常做法，鱼片鲜香滑嫩，汤汁鲜美开胃又下饭_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1aa41157mW/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV15ywzePE5n/",
+      "title": "番茄鱼片 | 请大数据推荐给喜欢喝汤的人",
+      "author": "何时下厨",
+      "published": "2025-01-19",
+      "duration": 92,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV15ywzePE5n"
     }
   },
   {
@@ -8055,9 +9284,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107024964/",
     "video": {
-      "title": "厨师长教你：酸菜鱼的家常做法，学会先收藏_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1mZ4y1v7z3/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1kt5NzzEBy/",
+      "title": "全网最详细的金汤酸菜鱼保姆级教程！",
+      "author": "董小厨家常菜",
+      "published": "2025-05-08",
+      "duration": 232,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kt5NzzEBy"
     }
   },
   {
@@ -8121,9 +9358,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106989942/",
     "video": {
-      "title": "水煮鱼最家常做法，又滑又嫩！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1qr4y1872R/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1nNcTe2Ege/",
+      "title": "水煮鱼片｜保姆级教程，麻辣鲜香、滑嫩入味！",
+      "author": "何时下厨",
+      "published": "2025-01-12",
+      "duration": 89,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nNcTe2Ege"
     }
   },
   {
@@ -8167,9 +9412,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/261072/",
     "video": {
-      "title": "湘菜大厨分享剁椒鱼头的正宗做法_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1B4411a7Tm/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1FmHR6LETk/",
+      "title": "第十六期 剁椒鱼头",
+      "author": "菜小厨-菜鸟的菜",
+      "published": "2026-10-09",
+      "duration": 70,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1FmHR6LETk"
     }
   },
   {
@@ -8213,9 +9466,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103478616/",
     "video": {
-      "title": "厨师长教你：“鱼头豆腐汤”的创新做法，老少皆宜，赶紧收藏_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Cs411N7RA/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1Nf5GzaEMa/",
+      "title": "高压锅4分钟版本的鱼头炖豆腐，鲜嫩又入味，汤汁浓郁奶白，吃完鱼头再来两碗鱼汤，太满足啦，简单方便又好吃！一定要试试#家常菜 #高压锅鱼头 #鱼头 #鱼头豆腐汤",
+      "author": "月月在做饭",
+      "published": "2025-05-09",
+      "duration": 82,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Nf5GzaEMa"
     }
   },
   {
@@ -8274,9 +9535,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107537840/",
     "video": {
-      "title": "无论什么鱼,按这种方法做出来的酱焖鱼,都能让你多吃一碗饭_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1ZZ4y1i7XG/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1Ym1ZBvE1z/",
+      "title": "酱焖鱼的家常做法，酱香浓郁，非常下饭，太好吃了",
+      "author": "二婶儿教做菜",
+      "published": "2025-11-06",
+      "duration": 168,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ym1ZBvE1z"
     }
   },
   {
@@ -8340,9 +9609,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106873590/",
     "video": {
-      "title": "这才是最正宗的阳朔啤酒鱼做法，传统师傅都是选的漓江大鲤鱼！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Xx411o7Kr/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV159UAB9EHW/",
+      "title": "红鲤鱼与绿鲤鱼，不如整个啤酒鱼",
+      "author": "杰西不妙厨房s",
+      "published": "2025-11-23",
+      "duration": 157,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV159UAB9EHW"
     }
   },
   {
@@ -8401,9 +9678,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/252712/",
     "video": {
-      "title": "重庆师傅教你做川菜，豆瓣鱼原来就是这么做的，味道巴适惨了_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1gE411y72i/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1Z9NyzQEVu/",
+      "title": "豆瓣鱼，四川人喜欢做的一道传统家常菜，鱼肉嫩滑，略带酸甜咸鲜微辣",
+      "author": "煮之夫",
+      "published": "2025-06-21",
+      "duration": 229,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Z9NyzQEVu"
     }
   },
   {
@@ -8462,9 +9747,17 @@ const recipes = [
     ],
     "source": "https://home.meishichina.com/recipe-469431.html",
     "video": {
-      "title": "厨师长教你红烧鱼块的家常做法，肉质鲜嫩，香辣入味下酒又下饭_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1FZ4y1B7cP/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1hREaz6EBC/",
+      "title": "进阶版的家常烧鱼块做法 按照这个法烧出来的鱼肉不仅味道好吃，鱼肉口感更好#家常烧鱼块 #每天分享做菜 #食材新鲜才是硬道理 #真材实料好味道 #来吃鱼",
+      "author": "皮蛋湘村记",
+      "published": "2025-05-17",
+      "duration": 112,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hREaz6EBC"
     }
   },
   {
@@ -8523,9 +9816,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/100587847/",
     "video": {
-      "title": "厨师长教你：“红烧草鱼”的正宗做法，先收藏起来_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1LW411P7zW/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1WMhX6iEDG/",
+      "title": "红烧草鱼",
+      "author": "黄大维美食",
+      "published": "2026-09-26",
+      "duration": 219,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WMhX6iEDG"
     }
   },
   {
@@ -8564,9 +9865,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104766058/",
     "video": {
-      "title": "【家常菜 chinese food】一分钟学会清蒸武昌鱼的做法Steamed wuchang fish - YouTube",
-      "url": "https://www.youtube.com/watch?v=3dCIIgCpcu0",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1yytT6YEtX/",
+      "title": "一席楚宴重头戏，清蒸武昌鱼，大火汽蒸锁住江鱼本鲜",
+      "author": "红厨红菜V",
+      "published": "2026-09-01",
+      "duration": 98,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yytT6YEtX"
     }
   },
   {
@@ -8605,9 +9914,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/1074758/",
     "video": {
-      "title": "零失败！大厨只需8分钟，教你饭店招牌豉汁蒸鱼，新手也能做大厨_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1vgQVYNEQA/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1A89HY3EU1/",
+      "title": "豉汁蒸鱼腩",
+      "author": "江淑琴美食记",
+      "published": "2025-03-05",
+      "duration": 110,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1A89HY3EU1"
     }
   },
   {
@@ -8651,9 +9968,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/101770625/",
     "video": {
-      "title": "晚餐：香煎三文鱼扒丨油醋汁荞麦面丨炖鸡汤_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1y44y1e7o3/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1ZzQ8YJEKg/",
+      "title": "10分钟搞定，早餐吃香煎三文鱼超满足！",
+      "author": "胡哥不糊",
+      "published": "2025-03-16",
+      "duration": 95,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZzQ8YJEKg"
     }
   },
   {
@@ -8702,9 +10027,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/104171635/",
     "video": {
-      "title": "照烧三文鱼的做法美食教程分享推荐食谱家常菜饮品小吃地方特色_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV15o5azvEt6/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1HY5EzCEsZ/",
+      "title": "照烧三文鱼，10分钟打造餐厅级美味！",
+      "author": "沈老板带你吃",
+      "published": "2025-04-18",
+      "duration": 80,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HY5EzCEsZ"
     }
   },
   {
@@ -8748,9 +10081,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/1068112/",
     "video": {
-      "title": "上班带饭第159天：三文鱼豆腐煲，开胃又下饭的家常做法！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV12x4y117tC/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1Wjuoz3Eti/",
+      "title": "自制美食｜一口沦陷的下饭神器 三文鱼豆腐煲🍣",
+      "author": "小鹿多吃点",
+      "published": "2025-07-19",
+      "duration": 67,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Wjuoz3Eti"
     }
   },
   {
@@ -8799,9 +10140,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/101765312/",
     "video": {
-      "title": "厨师长教你：“油焖大虾”的家常做法，味道好极了_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1CW411c7kP/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1g3G1zdEKB/",
+      "title": "不放番茄酱你是不是做不好油焖大虾啦？最简单的食材，教你做出极限大虾美味！",
+      "author": "林述巍JACKLIN",
+      "published": "2025-05-01",
+      "duration": 139,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1g3G1zdEKB"
     }
   },
   {
@@ -8840,9 +10189,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/1074033/",
     "video": {
-      "title": "蒜蓉蒸虾改刀摆盘很关键，大厨详细教学，这样蒸出来味道鲜香入味_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Dz411b7LD/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1nEh16yEZP/",
+      "title": "“蒸”是一场无声的布局——蒜蓉蒸虾",
+      "author": "王叔开小灶",
+      "published": "2026-09-25",
+      "duration": 184,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nEh16yEZP"
     }
   },
   {
@@ -8886,9 +10243,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106101593/",
     "video": {
-      "title": "白灼虾别再用热水煮啦，教你一招，嫩滑有弹性_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Kc411g7C1/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV16sdrYAE1y/",
+      "title": "白灼虾，不要直接下锅煮，分享一下酒店做法，虾肉鲜嫩Q弹不腥不柴",
+      "author": "董小厨家常菜",
+      "published": "2025-04-13",
+      "duration": 102,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV16sdrYAE1y"
     }
   },
   {
@@ -8932,9 +10297,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106806738/",
     "video": {
-      "title": "番茄蒜香虾仁，鲜香浓郁，真的太好吃了_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1x6G96ZELm/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV11kGvz9Egg/",
+      "title": "天津人爱吃虾，家常做法番茄虾仁，番茄酱汁酸甜开胃，假期安排上",
+      "author": "英哥小日子",
+      "published": "2025-05-02",
+      "duration": 104,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV11kGvz9Egg"
     }
   },
   {
@@ -8978,9 +10351,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107347069/",
     "video": {
-      "title": "虾仁豆腐煲-西兰花炒虾仁_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV12X4y1e7HD/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1grdfBREtF/",
+      "title": "简单低脂家常菜，西兰花炒虾仁，清淡营养又美味#西兰花炒虾仁#减脂餐#大人孩子都爱吃",
+      "author": "冰糖桔子呀",
+      "published": "2026-04-19",
+      "duration": 64,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1grdfBREtF"
     }
   },
   {
@@ -9024,9 +10405,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/107074799/",
     "video": {
-      "title": "黄瓜炒虾仁，降血糖防癌抗衰老！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1c54y1579z/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV13oXQY3EYi/",
+      "title": "星级酒店黄瓜炒虾仁做法，虾仁口感滑嫩，颜色白如雪，这味道绝了",
+      "author": "大尧美食推荐官",
+      "published": "2025-03-01",
+      "duration": 120,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV13oXQY3EYi"
     }
   },
   {
@@ -9070,9 +10459,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104010472/",
     "video": {
-      "title": "铸铁锅版芦笋炒虾仁_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1SZ4y1F79R/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1NZMTzKEFS/",
+      "title": "这样做的\"芦笋炒虾仁\"绝了、色香味俱全",
+      "author": "美食强",
+      "published": "2025-06-16",
+      "duration": 185,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NZMTzKEFS"
     }
   },
   {
@@ -9121,9 +10518,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104758038/",
     "video": {
-      "title": "经典老菜腰果虾仁，大厨教你正确方法，鲜嫩爽滑，酥脆咸香_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1ii4y1T7q5/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1SNkYBjEhH/",
+      "title": "腰果虾仁",
+      "author": "夏叔有好货",
+      "published": "2026-01-19",
+      "duration": 93,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SNkYBjEhH"
     }
   },
   {
@@ -9167,9 +10572,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104044565/",
     "video": {
-      "title": "虾仁怎么炒鲜香更滑嫩？老厨教你一招搞定，吃传统名菜龙井虾仁_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1RL411Q7bK/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1Lp6vBdEjr/",
+      "title": "把皇帝御膳、国宴大菜改到普通百姓家庭餐桌的“龙井虾仁”没有河虾、没有好茶一样能做好吃！年夜饭第四十一道它来了……",
+      "author": "段小段美食教程",
+      "published": "2026-01-30",
+      "duration": 220,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Lp6vBdEjr"
     }
   },
   {
@@ -9208,9 +10621,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107357684/",
     "video": {
-      "title": "虾仁蒸蛋用冷水还是热水？蒸几分钟？教你正确做法，滑嫩爽口没有蜂窝_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV15T411G7w7/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1wxSZBxEih/",
+      "title": "duangduang的虾仁蒸蛋",
+      "author": "鸭梨食堂",
+      "published": "2026-04-06",
+      "duration": 103,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wxSZBxEih"
     }
   },
   {
@@ -9254,9 +10675,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107030013/",
     "video": {
-      "title": "虾仁炒蛋，一道做法简单的家常菜，鲜香可口_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1dE411s74n/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1wtngzqEK9/",
+      "title": "今日减脂菜单——黄瓜虾仁炒鸡蛋，对于中国胃来说，减脂期我也要吃家常菜，这菜特别清爽，真的可以常做。。",
+      "author": "给谷先生的减脂餐",
+      "published": "2025-09-26",
+      "duration": 61,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wtngzqEK9"
     }
   },
   {
@@ -9300,9 +10729,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/22836/",
     "video": {
-      "title": "丝瓜炒虾仁，广东人夏季爱吃这道菜，翠绿爽口，好开胃_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1it41137tx/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1Pp4C6aEEq/",
+      "title": "丝瓜炒虾仁",
+      "author": "小圈鱼666",
+      "published": "2026-08-29",
+      "duration": 70,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Pp4C6aEEq"
     }
   },
   {
@@ -9346,9 +10783,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107210186/",
     "video": {
-      "title": "〖冬瓜虾仁汤〗已瘦17斤，越吃越瘦的减脂餐，日常减脂餐分享。_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/av79898742/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV12QoeYsEDs/",
+      "title": "简单又好吃的家常菜冬瓜虾仁汤",
+      "author": "爱生活的书玉",
+      "published": "2025-03-26",
+      "duration": 61,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV12QoeYsEDs"
     }
   },
   {
@@ -9397,9 +10842,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106114607/",
     "video": {
-      "title": "虾仁豆腐煲-西兰花炒虾仁_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV12X4y1e7HD/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1qxXDYkEqe/",
+      "title": "🔥鲜掉眉毛的虾仁豆腐煲！Q弹虾仁+嫩滑豆腐💦汤汁拌饭绝了🍚",
+      "author": "小珠酱美食",
+      "published": "2025-03-01",
+      "duration": 112,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qxXDYkEqe"
     }
   },
   {
@@ -9448,9 +10901,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/100017127/",
     "video": {
-      "title": "葱姜炒蛤蜊！Green Onion and Ginger Clams! - YouTube",
-      "url": "https://www.youtube.com/watch?v=JwilQHpxPe0",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1puFSz8EEN/",
+      "title": "姜葱炒花甲王够锅气，新春开镬，大吉大利又好味",
+      "author": "大麦食记",
+      "published": "2026-02-10",
+      "duration": 77,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1puFSz8EEN"
     }
   },
   {
@@ -9489,9 +10950,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/263012/",
     "video": {
-      "title": "蛤蜊蒸蛋｜滑嫩的日式蒸蛋比例，詹姆士今天教你做！ [詹姆士/姆士流]_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/av992017820",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1TZXHBBEK4/",
+      "title": "蛤蜊蒸蛋！从小吃到大都不会腻的下饭菜！",
+      "author": "冯小厨的菜谱",
+      "published": "2026-03-26",
+      "duration": 159,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TZXHBBEK4"
     }
   },
   {
@@ -9535,9 +11004,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104381907/",
     "video": {
-      "title": "蛤蜊冬瓜汤，潮州人夏季爱喝这款汤，鲜甜爽口，超好喝_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Zt41177ab/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1pLuRzPEQj/",
+      "title": "鲜掉眉毛！冬瓜蛤蜊汤10分钟搞定，清爽祛湿三伏必备！",
+      "author": "阿城家常菜",
+      "published": "2025-07-19",
+      "duration": 74,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pLuRzPEQj"
     }
   },
   {
@@ -9581,9 +11058,17 @@ const recipes = [
     ],
     "source": "https://www.xiangha.com/caipu/83627558.html",
     "video": {
-      "title": "消费：19｜上班带饭的第205天 本月伙食500预算还剩：121.4r今日菜谱：蒜苔炒鱿鱼+韭菜炒鸡蛋 ·食材：鸡蛋、蒜苔、鱿鱼_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV17V411K7He/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1KjLE6uEyt/",
+      "title": "当你想吃“蒜苔炒鱿鱼”就把这部视频翻出来",
+      "author": "美食强",
+      "published": "2026-05-17",
+      "duration": 132,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KjLE6uEyt"
     }
   },
   {
@@ -9627,9 +11112,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/236341/",
     "video": {
-      "title": "今天做一道孜然酱爆鱿鱼，酱香四溢，嫩滑弹牙，儿子吃了直呼过瘾_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1wE411c7F8/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1HmrkYKEew/",
+      "title": "XO酱爆鱿鱼",
+      "author": "晴天饲养员",
+      "published": "2025-01-13",
+      "duration": 96,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HmrkYKEew"
     }
   },
   {
@@ -9673,9 +11166,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107013762/",
     "video": {
-      "title": "芹菜炒鱿鱼🦑 celery stir fried squid - YouTube",
-      "url": "https://www.youtube.com/watch?v=Am_e7VlkTdE",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1RwAoeUErQ/",
+      "title": "芹菜炒鱿鱼，嫩嫩的，弹弹的，鲜香又清爽",
+      "author": "奇妞小私厨",
+      "published": "2025-02-21",
+      "duration": 79,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RwAoeUErQ"
     }
   },
   {
@@ -9729,9 +11230,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/261904/",
     "video": {
-      "title": "〖麻婆豆腐保姆级教程〗包教包会！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV17y411z7uD/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1md3NzzEnF/",
+      "title": "【麻婆豆腐保姆级教程】",
+      "author": "村驴",
+      "published": "2025-06-30",
+      "duration": 209,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1md3NzzEnF"
     }
   },
   {
@@ -9780,9 +11289,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107439219/",
     "video": {
-      "title": "家常豆腐：大厨教你这样做，比平时做的还简单，出锅特别香_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1WJ411p7Q8/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1EyABeMEb3/",
+      "title": "【把豆腐做的比肉香 家常豆腐】",
+      "author": "村驴",
+      "published": "2025-02-19",
+      "duration": 223,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EyABeMEb3"
     }
   },
   {
@@ -9826,9 +11343,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/100381510/",
     "video": {
-      "title": "红烧豆腐的家常做法，香嫩入味，好吃下饭，比饭店做的还香_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV19b4y1t73e/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1wKKz6PEZR/",
+      "title": "【家常菜教程】家常红烧豆腐｜豆腐不容易碎、入味的实用技巧",
+      "author": "阿超爱美食",
+      "published": "2026-07-19",
+      "duration": 90,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wKKz6PEZR"
     }
   },
   {
@@ -9897,9 +11422,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104316357/",
     "video": {
-      "title": "一块豆腐，两个步骤，在家也能做出美味的鱼香豆腐_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1wb411c727/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1k8iCBEEnH/",
+      "title": "鱼香豆腐",
+      "author": "夏叔有好货",
+      "published": "2026-01-07",
+      "duration": 83,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1k8iCBEEnH"
     }
   },
   {
@@ -9948,9 +11481,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106799122/",
     "video": {
-      "title": "美食〖肉末豆腐〗做法分享_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/av20545772",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1Cj2vBHEY7/",
+      "title": "最强下饭菜！肉末豆腐超详细教程，真的巨好吃",
+      "author": "袁锐-萌新的圆",
+      "published": "2025-12-04",
+      "duration": 182,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Cj2vBHEY7"
     }
   },
   {
@@ -9989,9 +11530,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107098365/",
     "video": {
-      "title": "国宴大厨郑秀生：蟹黄豆腐_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Ri4y1V7z7/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1BbjR6fEos/",
+      "title": "蟹黄豆腐家常做法",
+      "author": "大碗干饭的仙女",
+      "published": "2026-06-24",
+      "duration": 68,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BbjR6fEos"
     }
   },
   {
@@ -10040,9 +11589,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103071047/",
     "video": {
-      "title": "东北老式锅塌豆腐，2层豆腐1层肉馅，就学正宗做法，老配方老味道_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1CDuXzhEgt/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1SBeU6gEqt/",
+      "title": "老天津卫传统锅塌豆腐，塌而不烂，这一口是老一辈的味道",
+      "author": "老解的舅舅是厨子",
+      "published": "2026-09-19",
+      "duration": 96,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SBeU6gEqt"
     }
   },
   {
@@ -10091,9 +11648,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107628666/",
     "video": {
-      "title": "天一冷就想吃这样的大锅菜白菜炖豆腐，做法简单，营养又好吃_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1RHCdBoE2V/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1jLUzBxEwM/",
+      "title": "白菜炖豆腐，粉皮黏糯入味，太下饭了❗️",
+      "author": "是米粒MiNi",
+      "published": "2025-11-27",
+      "duration": 66,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jLUzBxEwM"
     }
   },
   {
@@ -10137,9 +11702,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/117193/",
     "video": {
-      "title": "潮汕人的家常菜，〖番茄豆腐煲〗汤鲜味美，开胃解腻，好好吃！#潮汕美食 #番茄的做法#豆腐的各种做法 #妈呀太香了 - 抖音",
-      "url": "https://www.douyin.com/video/7671936404976510452",
-      "platform": "抖音"
+      "url": "https://www.bilibili.com/video/BV1ZzpR6CEfJ/",
+      "title": "今天吃什么:番茄炖豆腐～",
+      "author": "清静安食",
+      "published": "2026-10-12",
+      "duration": 70,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZzpR6CEfJ"
     }
   },
   {
@@ -10183,9 +11756,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106684059/",
     "video": {
-      "title": "香菇焖豆腐，这是豆腐最简单又好吃的做法，又香又滑嫩，营养好味，比肉更好吃！ - YouTube",
-      "url": "https://www.youtube.com/watch?v=NbmJbMLx0wc",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1fF3D6vETx/",
+      "title": "家常菜|葱烧香菇豆腐煲！鲜香十足，捞饭一绝！",
+      "author": "平凡的菜PF",
+      "published": "2026-08-02",
+      "duration": 66,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fF3D6vETx"
     }
   },
   {
@@ -10234,9 +11815,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104361547/",
     "video": {
-      "title": "白菜粉条炖豆腐怎么做好吃？大厨教你诀窍，鲜香入味，好吃又暖胃_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV12a4y1R7pY/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1J6WyzTEtA/",
+      "title": "家常菜的魅力，白菜粉条炖豆腐，简单又下饭！",
+      "author": "食研记",
+      "published": "2025-10-17",
+      "duration": 62,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1J6WyzTEtA"
     }
   },
   {
@@ -10290,9 +11879,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/257648/",
     "video": {
-      "title": "梅州客家酿豆腐的详细教程，嫩滑鲜香，一看就会，在家也可以做_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1hb4y1D7Jv/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1ZxJDzKEFP/",
+      "title": "豆腐的神仙吃法！肉馅鲜嫩豆腐滑，客家酿豆腐！",
+      "author": "特厨做饭_",
+      "published": "2025-09-24",
+      "duration": 235,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZxJDzKEFP"
     }
   },
   {
@@ -10331,9 +11928,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106820748/",
     "video": {
-      "title": "#不可辜负的美食# 好吃不胖的虾仁金针菇豆腐蒸蛋的教程_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1iY4y1q7xP/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV16ih9zjECQ/",
+      "title": "豆腐蒸蛋",
+      "author": "夏叔厨房",
+      "published": "2025-08-30",
+      "duration": 76,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV16ih9zjECQ"
     }
   },
   {
@@ -10382,9 +11987,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/103929171/",
     "video": {
-      "title": "这样做的虾皮紫菜豆腐汤，汤鲜味美，做法简单，营养又好喝 - YouTube",
-      "url": "https://www.youtube.com/watch?v=shefGm_AD20",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV18NSvB6Eo4/",
+      "title": "央妈推荐的紫菜虾皮豆腐汤，简单又营养",
+      "author": "nanana1231",
+      "published": "2025-11-30",
+      "duration": 75,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV18NSvB6Eo4"
     }
   },
   {
@@ -10423,9 +12036,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106827143/",
     "video": {
-      "title": "经典热销粤菜：鲍汁豆腐制作过程_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1K9CDBhEKE/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1Vt8AzdEXa/",
+      "title": "鲍汁豆腐的做法",
+      "author": "崽崽做菜",
+      "published": "2025-07-24",
+      "duration": 67,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Vt8AzdEXa"
     }
   },
   {
@@ -10464,9 +12085,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106724182/",
     "video": {
-      "title": "厨师长教你：“葱烧豆腐”的正宗做法，先收藏了_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1KW411N7Dw/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1uPTMzMEWr/",
+      "title": "葱烧豆腐",
+      "author": "袁锐-萌新的圆",
+      "published": "2025-06-06",
+      "duration": 229,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uPTMzMEWr"
     }
   },
   {
@@ -10510,9 +12139,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/254804/",
     "video": {
-      "title": "豆腐不要直接炒，小伙教你做香煎豆腐，外酥里嫩，香辣可口，真过瘾_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1YZ4y1x7p1/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1qDtzzfERt/",
+      "title": "阿姨教你做香煎豆腐，教你怎么煎嫩豆腐",
+      "author": "荣妈家书",
+      "published": "2025-08-07",
+      "duration": 94,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qDtzzfERt"
     }
   },
   {
@@ -10556,9 +12193,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/104595342/",
     "video": {
-      "title": "大厨分享肉末日本豆腐，品相好不破碎鲜香滑嫩，简单省事轻松搞定 - YouTube",
-      "url": "https://www.youtube.com/watch?v=9DcqeesnlwA",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1o7oqYLETo/",
+      "title": "肉末日本豆腐，豆腐滑嫩，浓郁的肉末汤汁拌米饭真的绝了！",
+      "author": "三颗小板栗的晚餐",
+      "published": "2025-03-26",
+      "duration": 43,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": true,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1o7oqYLETo"
     }
   },
   {
@@ -10602,9 +12247,9 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/106190809/",
     "video": {
-      "title": "美食台 | 花菇燜玉子豆腐，簡單又精致！ - YouTube",
-      "url": "https://www.youtube.com/watch?v=zFvlWi5rNrc",
-      "platform": "YouTube"
+      "status": "pending",
+      "embed": false,
+      "metadataVerified": false
     }
   },
   {
@@ -10653,9 +12298,17 @@ const recipes = [
     ],
     "source": "https://home.meishichina.com/recipe-15227.html",
     "video": {
-      "title": "跟着学口感丝滑的“皮蛋豆腐汤”做法，懒人也能5分钟轻松学会！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1qe411276w/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1DCq2YSEfX/",
+      "title": "皮蛋豆腐汤你一定要试试，做法简单，味道鲜美，营养又好喝",
+      "author": "洋弟爱美食",
+      "published": "2024-12-11",
+      "duration": 69,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1DCq2YSEfX"
     }
   },
   {
@@ -10699,9 +12352,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106436093/",
     "video": {
-      "title": "低脂低卡的家常小炒芹菜炒香干，营养又健康，做法很简单_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Pp4y1H7Ne/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1x2pd6ZENB/",
+      "title": "怎么做芹菜炒香干？",
+      "author": "周炯亮",
+      "published": "2026-10-12",
+      "duration": 78,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1x2pd6ZENB"
     }
   },
   {
@@ -10745,9 +12406,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104764070/",
     "video": {
-      "title": "青椒炒香干最新做法，少说三碗饭，简单又美味 - YouTube",
-      "url": "https://www.youtube.com/watch?v=sF_Pli854o0",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1oUaj6xEQ7/",
+      "title": "青椒炒香干",
+      "author": "跟着伯通吃好饭",
+      "published": "2026-09-30",
+      "duration": 179,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oUaj6xEQ7"
     }
   },
   {
@@ -10791,9 +12460,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/106651095/",
     "video": {
-      "title": "蒜苗炒香干，简单美味8分钟出锅，豆干吃得比肉香_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1gv411a7z9/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1WoF6ziEAN/",
+      "title": "家常菜第337期，蒜苗炒香干是一道简单快手的家常菜，蒜苗的清香搭配香干的豆香，口感鲜嫩又下饭。",
+      "author": "过早荆州",
+      "published": "2026-02-06",
+      "duration": 38,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": true,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WoF6ziEAN"
     }
   },
   {
@@ -10832,9 +12509,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/105877412/",
     "video": {
-      "title": "厨师长教你：“韭菜炒香干”的做法，开胃下饭，家常快手菜_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1MP4y1Y7gs/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1mMcUzNEcr/",
+      "title": "韭菜炒香干",
+      "author": "王厨的小店",
+      "published": "2026-03-13",
+      "duration": 110,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mMcUzNEcr"
     }
   },
   {
@@ -10883,9 +12568,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103677309/",
     "video": {
-      "title": "来给我的55位粉丝分享家常菜第三集啦～ 肉丝炒香干，嫩嫩的肉丝配着软软的香干，裹满鲜浓汤汁😍 汤汁拌饭特别香，吃着超满🤩🤩 #真实生活分享计划 #家常菜 - 抖音",
-      "url": "https://www.douyin.com/video/7680357520276559977",
-      "platform": "抖音"
+      "url": "https://www.bilibili.com/video/BV1rZXKBpEvi/",
+      "title": "以前吃木桶饭最爱点的香干肉丝，加点榨菜丝更好吃了！原来叫炒三丝！这道菜就得配着米饭吃，香香咸咸鲜鲜的，超级好吃！#炒三丝",
+      "author": "小鱼美食11",
+      "published": "2026-03-27",
+      "duration": 69,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1rZXKBpEvi"
     }
   },
   {
@@ -10949,9 +12642,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/268762/",
     "video": {
-      "title": "五香卤豆干Spiced Braised Tofu - YouTube",
-      "url": "https://www.youtube.com/watch?v=RFhweSVe610",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1S5jbzWE1K/",
+      "title": "五香卤豆干",
+      "author": "小乔的美好食光",
+      "published": "2025-05-24",
+      "duration": 95,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1S5jbzWE1K"
     }
   },
   {
@@ -11000,9 +12701,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/102125564/",
     "video": {
-      "title": "新鲜香菇和腐竹这样做太香啦，上桌就被夹光，太解馋了_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1sT4y137p7/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1KXhw6eE1r/",
+      "title": "【腐竹】香菇焖腐竹",
+      "author": "按时吃饭呢",
+      "published": "2026-08-27",
+      "duration": 60,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KXhw6eE1r"
     }
   },
   {
@@ -11051,9 +12760,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106983570/",
     "video": {
-      "title": "今天吃超级下饭的腐竹炒肉！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1tQBXYYEd4/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1JvpR67E2h/",
+      "title": "重生之我靠腐竹炒肉拿捏闽圈大小姐",
+      "author": "鱼贝贝美食频道",
+      "published": "2026-10-12",
+      "duration": 76,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JvpR67E2h"
     }
   },
   {
@@ -11102,9 +12819,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106980846/",
     "video": {
-      "title": "鲜香入味超下饭｜懒人版素三鲜 ｜ 香菇黑木耳炒腐竹 都是素菜也能做出饭店的风味？简单快速又好吃，老少皆宜，快收藏！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1y8411y7AJ/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1H6N8edE7e/",
+      "title": "一盘拼凑出来的青椒木耳炒腐竹，做法简单又好吃，还挺下饭的",
+      "author": "可乐小丸子呀",
+      "published": "2025-02-07",
+      "duration": 79,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1H6N8edE7e"
     }
   },
   {
@@ -11158,9 +12883,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/104052277/",
     "video": {
-      "title": "为家人做100道下饭菜！冬日必备菜品，腐竹焖牛腩！〖粤语食谱〗_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1xV4y137b8/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1Lxe8z2ESA/",
+      "title": "给同事带饭第3天，我吃啥她就吃啥，一顿收10元贵吗？今天吃豆角腐竹焖牛腩",
+      "author": "小吴的打工便当",
+      "published": "2025-08-22",
+      "duration": 95,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": true,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Lxe8z2ESA"
     }
   },
   {
@@ -11204,12 +12937,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/1012917/",
     "video": {
-      "url": "https://www.bilibili.com/video/BV1uY8vzkEmx/",
-      "title": "番茄炒蛋 | 有锅就能做、黄金比例被我拿捏了！",
+      "url": "https://www.bilibili.com/video/BV1xvELzJEvh/",
+      "title": "【拉丝番茄炒蛋】丝状的鸡蛋裹满浓郁茄汁",
+      "author": "村驴",
+      "published": "2025-05-12",
+      "duration": 161,
       "platform": "哔哩哔哩",
       "embed": true,
-      "published": "2025-07-27",
-      "author": "何时下厨"
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xvELzJEvh"
     }
   },
   {
@@ -11248,9 +12986,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106614890/",
     "video": {
-      "title": "韭菜炒鸡蛋想要鲜香脆嫩出汤少，只要用对两种调料，教你正确做法_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1su4m1P75j/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1uWGJzXE8a/",
+      "title": "经典家常菜“韭菜炒鸡蛋”就这样做，味道绝了！",
+      "author": "美食强",
+      "published": "2025-07-08",
+      "duration": 140,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uWGJzXE8a"
     }
   },
   {
@@ -11289,9 +13035,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104619326/",
     "video": {
-      "title": "厨师长教你：“青椒炒鸡蛋”的家常做法，味道非常赞_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1rs411n7kF/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1EGpM62EeR/",
+      "title": "第一视角展现最好吃青椒炒蛋做法",
+      "author": "十六年湘菜厨师陈伢子",
+      "published": "2026-10-07",
+      "duration": 90,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EGpM62EeR"
     }
   },
   {
@@ -11330,9 +13084,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106733530/",
     "video": {
-      "title": "饭店里的洋葱炒鸡蛋怎么做？大厨教你一招，家常小炒，简单美味_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1ZM4y1f7LL/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1NpB1YgE4x/",
+      "title": "洋葱炒鸡蛋，下饭神器",
+      "author": "没吃过冻梨呀",
+      "published": "2024-11-23",
+      "duration": 63,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NpB1YgE4x"
     }
   },
   {
@@ -11371,9 +13133,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106829685/",
     "video": {
-      "title": "苦瓜炒鸡蛋，关键这一步，吃起来不苦，还清淡爽口_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV17p411Z7eW/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1LT7DzaEdM/",
+      "title": "家常版的苦瓜炒鸡蛋鲜美清爽，做法简单",
+      "author": "惠姐爱做饭",
+      "published": "2025-06-02",
+      "duration": 67,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LT7DzaEdM"
     }
   },
   {
@@ -11412,9 +13182,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107619091/",
     "video": {
-      "title": "丝瓜炒鸡蛋这种做法太好吃了，清淡不油腻，丝瓜颜色翠绿不发黑#美食製作 #美食教程 #家庭菜 #家常菜 - YouTube",
-      "url": "https://www.youtube.com/watch?v=RzvrHvNJ-rE",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1vrGu6JEeC/",
+      "title": "丝瓜炒鸡蛋，夏天吃清淡爽口，软嫩鲜甜，做法还巨简单。",
+      "author": "爷俩儿好菜",
+      "published": "2026-08-01",
+      "duration": 75,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vrGu6JEeC"
     }
   },
   {
@@ -11453,9 +13231,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/1014130/",
     "video": {
-      "title": "黄瓜炒鸡蛋的家常做法，简单快手菜，想不到如此爽口_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Ve4y1A7yT/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1XVDsB7EwB/",
+      "title": "黄瓜炒蛋别直接下锅，多加一步，黄瓜脆嫩，鸡蛋鲜香！",
+      "author": "雷的美食",
+      "published": "2026-04-10",
+      "duration": 115,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XVDsB7EwB"
     }
   },
   {
@@ -11499,9 +13285,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106480902/",
     "video": {
-      "title": "木耳炒鸡蛋这种做法火爆了，我家天天吃都不腻，味道好又下饭_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1c81GBnEv1/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1tr6KY6EHJ/",
+      "title": "很难想象这道“大葱木耳炒鸡蛋”会这么好吃！",
+      "author": "美食强",
+      "published": "2024-12-02",
+      "duration": 149,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tr6KY6EHJ"
     }
   },
   {
@@ -11540,9 +13334,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107257778/",
     "video": {
-      "title": "简单又美味的秋葵炒鸡蛋_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV12P411H7r5/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1G3po6rE1N/",
+      "title": "来上这么一份秋葵炒鸡蛋，小朋友们都超级爱吃的呢，跟着我这样做起来，简单好上手",
+      "author": "木易女尼1",
+      "published": "2026-10-12",
+      "duration": 114,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1G3po6rE1N"
     }
   },
   {
@@ -11581,9 +13383,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107094776/",
     "video": {
-      "title": "香椿炒鸡蛋到底要不要焯水？教你正确做法，鲜香嫩滑，吃着放心_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1aT411q7Yc/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1Rd9LBBEQY/",
+      "title": "香椿炒鸡蛋",
+      "author": "夏叔有好货",
+      "published": "2026-04-01",
+      "duration": 93,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Rd9LBBEQY"
     }
   },
   {
@@ -11627,9 +13437,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/106982526/",
     "video": {
-      "title": "一道用肉不换的美味，做法确如此简单，黄花菜炒鸡蛋。 - YouTube",
-      "url": "https://www.youtube.com/watch?v=_QFgB_g-ajk",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1kGHQzQE6f/",
+      "title": "家庭小厨房：黄花菜炒鸡蛋",
+      "author": "茹菓说1114",
+      "published": "2025-09-10",
+      "duration": 56,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": true,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kGHQzQE6f"
     }
   },
   {
@@ -11703,9 +13521,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/20624/",
     "video": {
-      "title": "〖大学生暑假指导〗鱼香鸡蛋（私教级）_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1GS421d7Ub/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1UXCJYnEfB/",
+      "title": "【10分钟搞定 下饭神菜鱼香鸡蛋】",
+      "author": "村驴",
+      "published": "2024-12-27",
+      "duration": 139,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1UXCJYnEfB"
     }
   },
   {
@@ -11749,9 +13575,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104760938/",
     "video": {
-      "title": "家常虎皮鸡蛋的做法，一煮二炸三炖，鸡蛋咸香入味，饭店很难吃到_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1yT4y1M7yb/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1Anep6oEaL/",
+      "title": "虎皮鸡蛋这样做，香糯入味超下饭",
+      "author": "独立美食博主",
+      "published": "2026-09-15",
+      "duration": 46,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": true,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Anep6oEaL"
     }
   },
   {
@@ -11790,9 +13624,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/102774772/",
     "video": {
-      "title": "大厨教你韭黄炒鸡蛋的正确做法，鸡蛋鲜嫩，韭黄不出水_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1rC4y1s7mF/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV153oaBsEf3/",
+      "title": "韭黄炒鸡蛋成功关键在于鸡蛋要嫩，韭黄要脆！",
+      "author": "callia爱吃鬼",
+      "published": "2026-04-23",
+      "duration": 61,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV153oaBsEf3"
     }
   },
   {
@@ -11836,9 +13678,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/102286229/",
     "video": {
-      "title": "西红柿鸡蛋汤家常的做法！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1PQ4y1a7wN/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1bvKt6yECE/",
+      "title": "【不一样的西红柿鸡蛋汤‼️酸辣清爽又很简单‼️】",
+      "author": "村驴",
+      "published": "2026-07-21",
+      "duration": 191,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bvKt6yECE"
     }
   },
   {
@@ -11892,9 +13742,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103497936/",
     "video": {
-      "title": "厨师长教你一道北方菜：“地三鲜”的家常做法，味道很赞_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1iW411N7CY/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV13J7j65EjG/",
+      "title": "无敌下饭王地三鲜，绝对是素菜里的天花板！我妈这做法简单还少油，您一定要试试！",
+      "author": "孩儿他姥姥a",
+      "published": "2026-06-28",
+      "duration": 71,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV13J7j65EjG"
     }
   },
   {
@@ -11958,9 +13816,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/102887155/",
     "video": {
-      "title": "厨师长教你：“少油型鱼香茄子”的做法，快收藏了_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Hs411j7Tn/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1aegF6jEcq/",
+      "title": "【酸甜微辣软软糯糯的鱼香茄子‼️免油炸‼️】",
+      "author": "村驴",
+      "published": "2026-08-14",
+      "duration": 218,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1aegF6jEcq"
     }
   },
   {
@@ -12004,9 +13870,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/100000564/",
     "video": {
-      "title": "肉末茄子的家常做法，茄子软糯滑口，咸鲜味美又非常下饭_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1ut4y1U7id/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1XCmyYMExC/",
+      "title": "【不用油炸不用蒸】3克油4分钟搞定软烂茄子！肉末茄子省油版来了！",
+      "author": "村驴",
+      "published": "2024-11-11",
+      "duration": 162,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XCmyYMExC"
     }
   },
   {
@@ -12045,9 +13919,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/1074839/",
     "video": {
-      "title": "分享一道蒜蓉蒸茄子，非常好吃的一道家常菜，做法简单味道棒,美食,美味食谱,好看视频",
-      "url": "https://haokan.baidu.com/v?pd=wisenatural&vid=2287171917819962305",
-      "platform": "好看视频"
+      "url": "https://www.bilibili.com/video/BV1mugkzkEdk/",
+      "title": "今天吃「蒜蓉蒸茄子」蒜香入味，香气飞起！",
+      "author": "森炉饭堂",
+      "published": "2025-07-09",
+      "duration": 86,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mugkzkEdk"
     }
   },
   {
@@ -12086,9 +13968,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/100282227/",
     "video": {
-      "title": "酱烧茄子 天津人也叫它素烧茄子_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1ey4y1v7c2/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1r5eEzsEhJ/",
+      "title": "甜酱烧茄子教程、有手就会",
+      "author": "梦老九小号",
+      "published": "2025-08-24",
+      "duration": 62,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1r5eEzsEhJ"
     }
   },
   {
@@ -12137,9 +14027,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106976093/",
     "video": {
-      "title": "东北茄子炖土豆_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1zu4y1Z7C5/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1R2t96mEJB/",
+      "title": "土豆炖茄子，炖出了家的味道，这菜别的毛病没有，就是嘎嘎费米饭！",
+      "author": "爷俩儿好菜",
+      "published": "2026-09-03",
+      "duration": 80,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1R2t96mEJB"
     }
   },
   {
@@ -12183,9 +14081,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106452161/",
     "video": {
-      "title": "你真会做虎皮青椒吗？川菜师傅教你2种虎皮青椒的做法，干货_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV19k4y1P7GK/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1zkYsziEXu/",
+      "title": "好吃到没人可以拒绝，虎皮青椒保姆级教程",
+      "author": "袁锐-萌新的圆",
+      "published": "2025-08-18",
+      "duration": 210,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zkYsziEXu"
     }
   },
   {
@@ -12239,9 +14145,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/37746/",
     "video": {
-      "title": "我做的“酸辣土豆丝”很好吃！步骤清晰详细、做法易学接地气_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV16Z4y1r7MT/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1AHk1YyEH5/",
+      "title": "【绝味酸辣土豆丝】超过大多数饭店的味道",
+      "author": "村驴",
+      "published": "2024-12-20",
+      "duration": 155,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AHk1YyEH5"
     }
   },
   {
@@ -12285,9 +14199,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103895887/",
     "video": {
-      "title": "当你想吃“醋溜土豆丝”就把这部视频翻出来_哔哩哔哩_bilibili",
       "url": "https://www.bilibili.com/video/BV1UhMMzkEqi/",
-      "platform": "哔哩哔哩"
+      "title": "当你想吃“醋溜土豆丝”就把这部视频翻出来",
+      "author": "美食强",
+      "published": "2025-06-13",
+      "duration": 180,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1UhMMzkEqi"
     }
   },
   {
@@ -12336,9 +14258,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/101790129/",
     "video": {
-      "title": "酒店大厨教你：“干锅土豆片”的做法，操作简单，好吃又好做_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV17741127RE/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1vC6oBDEuF/",
+      "title": "吃一口就沦陷的干锅土豆片！香香辣辣的也太好吃了！",
+      "author": "甜娜酱的每一餐",
+      "published": "2026-01-11",
+      "duration": 61,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vC6oBDEuF"
     }
   },
   {
@@ -12382,9 +14312,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/1060130/",
     "video": {
-      "title": "东北菜土豆炖豆角跟老妈学的做法，简单不说真好吃，家的味道_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1TJ411i7E2/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1oZLgz7EmH/",
+      "title": "土豆炖豆角",
+      "author": "南瓜胡萝卜丝",
+      "published": "2025-04-24",
+      "duration": 63,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oZLgz7EmH"
     }
   },
   {
@@ -12438,9 +14376,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107187813/",
     "video": {
-      "title": "厨师长教你：“干煸四季豆”的正宗做法，先收藏了_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1nW411A7SY/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1TBGg63ESB/",
+      "title": "干煸四季豆保姆级教学",
+      "author": "侯大厨不炒菜",
+      "published": "2026-08-01",
+      "duration": 78,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TBGg63ESB"
     }
   },
   {
@@ -12484,9 +14430,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/100346358/",
     "video": {
-      "title": "榄菜肉末四季豆 | 可馋下厨房 | 配米饭真的一绝_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV13K4y1a7na/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1pcaE6TEVP/",
+      "title": "【家常菜】肉末四季豆｜万能下饭菜，拌饭绝了！",
+      "author": "屋哩食记",
+      "published": "2026-09-29",
+      "duration": 66,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pcaE6TEVP"
     }
   },
   {
@@ -12525,9 +14479,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106399195/",
     "video": {
-      "title": "〖叶子的简单美食〗橄榄菜四季豆 -Eng Sub- Stir-fry French Beans with Olive Vege_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1H9HXePE8X/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1FAxLzoEmY/",
+      "title": "超级下饭且健康的美食，橄榄菜四季豆～",
+      "author": "小杨de厨房",
+      "published": "2025-10-06",
+      "duration": 47,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": true,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1FAxLzoEmY"
     }
   },
   {
@@ -12566,9 +14528,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107651597/",
     "video": {
-      "title": "蒜蓉西兰花，做法简单，味道鲜美，好吃又下饭！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1myRhY1EJF/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1gTScB3Ewv/",
+      "title": "蒜蓉西兰花这样做才好吃",
+      "author": "小厨大亮",
+      "published": "2025-11-29",
+      "duration": 85,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gTScB3Ewv"
     }
   },
   {
@@ -12607,9 +14577,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106642307/",
     "video": {
-      "title": "最好的减脂菜清炒西兰花，简单清淡营养又美味！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1fKvaB3EhB/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1uWgA6DE7f/",
+      "title": "今日美食：清炒西兰花",
+      "author": "我是安富贵儿呀",
+      "published": "2026-08-14",
+      "duration": 68,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uWgA6DE7f"
     }
   },
   {
@@ -12653,9 +14631,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/101759229/",
     "video": {
-      "title": "西兰花炒胡萝卜，做法简单，小孩都爱吃又营养_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1jK4y1U7MA/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV16BMR65Ev4/",
+      "title": "打工人带饭第44天‖今天是西兰花炒胡萝卜",
+      "author": "扁扁扁减肥记录",
+      "published": "2026-08-03",
+      "duration": 33,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": true,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV16BMR65Ev4"
     }
   },
   {
@@ -12694,9 +14680,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107619049/",
     "video": {
-      "title": "素炒菜花是我家常吃的一道菜，菜花直接炒清香好吃，营养不流失。_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Q341167vR/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1mf6qYbEtc/",
+      "title": "清炒花菜，花菜这样做营养全保留，简单还好吃。",
+      "author": "高家少爷的小厨房",
+      "published": "2025-01-02",
+      "duration": 66,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mf6qYbEtc"
     }
   },
   {
@@ -12745,9 +14739,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104109240/",
     "video": {
-      "title": "〖干锅花菜〗一招万能的蔬菜做法_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1kx411D7V8/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1V5HD6HEPH/",
+      "title": "跟老师傅学的干锅花菜，不过油版本",
+      "author": "毕竟王员外",
+      "published": "2026-10-08",
+      "duration": 142,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1V5HD6HEPH"
     }
   },
   {
@@ -12791,9 +14793,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/44795/",
     "video": {
-      "title": "国宴级别的番茄菜花，做法简单易学，开胃下饭，清脆爽口【食在小厨】 - YouTube",
-      "url": "https://www.youtube.com/watch?v=1ohHNSzaxOo",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1q6nyzxE9L/",
+      "title": "中秋节做一道国宴番茄花菜，颜色好看，酸甜浓郁，老人小孩都喜欢。",
+      "author": "爷俩儿好菜",
+      "published": "2025-09-30",
+      "duration": 74,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1q6nyzxE9L"
     }
   },
   {
@@ -12842,9 +14852,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106696635/",
     "video": {
-      "title": "大厨教你，手撕包菜的家常做法，爽脆可口好下饭_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV17f4y1k7T7/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1mAGjzBEaZ/",
+      "title": "【2分钟爆炒出饭店味！手撕包菜】",
+      "author": "村驴",
+      "published": "2025-07-08",
+      "duration": 134,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mAGjzBEaZ"
     }
   },
   {
@@ -12888,9 +14906,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104285721/",
     "video": {
-      "title": "家常醋溜白菜做法、开胃酸爽、简单易学。@小彪美食_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV16x411b71x",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1SPqHYgE52/",
+      "title": "【醋溜白菜 精准比例拿捏】",
+      "author": "村驴",
+      "published": "2024-12-08",
+      "duration": 86,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SPqHYgE52"
     }
   },
   {
@@ -12939,9 +14965,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106424757/",
     "video": {
-      "title": "猪肉白菜炖粉条，老师傅教正宗做法，技巧真不少，学地道东北炖菜_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1UD4y1c7Hu/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1681pYDEUC/",
+      "title": "【家常味就是幸福味】猪肉白菜炖粉条！",
+      "author": "村驴",
+      "published": "2024-10-26",
+      "duration": 121,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1681pYDEUC"
     }
   },
   {
@@ -12990,9 +15024,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/100436949/",
     "video": {
-      "title": "上海妈妈教你“上汤娃娃菜”家常做法，鲜美入味，食材丰富！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1vE411k7k4/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV15bRMYtEwC/",
+      "title": "用皮蛋和咸鸭蛋就能做出巨好喝的上汤娃娃菜，汤鲜味美有营养",
+      "author": "董小厨家常菜",
+      "published": "2025-03-10",
+      "duration": 68,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV15bRMYtEwC"
     }
   },
   {
@@ -13036,9 +15078,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107283446/",
     "video": {
-      "title": "蒜蓉粉丝娃娃菜，包括蒜蓉做法，简单海鲜汁原理_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1KL411K7ee/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1PBkeBCEB5/",
+      "title": "年夜饭做一道“蒜蓉粉丝娃娃菜”全家竖起大拇指",
+      "author": "美食强",
+      "published": "2026-01-21",
+      "duration": 153,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PBkeBCEB5"
     }
   },
   {
@@ -13082,9 +15132,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106502264/",
     "video": {
-      "title": "大亮分享“香菇油菜”做法，蒜香美味，清淡可口，喜欢收藏_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Vt4y1k7Zk/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1wD6LYxESd/",
+      "title": "“香菇油菜”年夜饭做一道全家都会给你竖起大拇指",
+      "author": "美食强",
+      "published": "2024-12-31",
+      "duration": 191,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wD6LYxESd"
     }
   },
   {
@@ -13123,9 +15181,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/103807282/",
     "video": {
-      "title": "厨师长教你：“蚝油生菜”的家常做法，爽脆鲜嫩，简单易做_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1bS4y1r7jR/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1tyHQ6SECU/",
+      "title": "蚝油生菜",
+      "author": "黎叔教做菜",
+      "published": "2026-10-08",
+      "duration": 61,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tyHQ6SECU"
     }
   },
   {
@@ -13164,9 +15230,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107129117/",
     "video": {
-      "title": "厨师长教清炒、炝炒和蒜蓉空心菜的区别，不发黑不发黄，还不出水_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1HE411b7Wp/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1zBYa6GETt/",
+      "title": "第一视角展现蒜蓉空心菜加水炒炒法",
+      "author": "十六年湘菜厨师陈伢子",
+      "published": "2026-09-13",
+      "duration": 60,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zBYa6GETt"
     }
   },
   {
@@ -13205,9 +15279,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/105881858/",
     "video": {
-      "title": "上海妈妈教你做清脆爽口的“清炒莴笋丝”，营养美味，制作简单！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1qK411H7RL/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1i7hq65ExC/",
+      "title": "不超10元搞定一餐（1）｜今日花费2.8元，清炒莴笋！",
+      "author": "胡扯日记",
+      "published": "2026-09-21",
+      "duration": 62,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1i7hq65ExC"
     }
   },
   {
@@ -13251,9 +15333,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/105969315/",
     "video": {
-      "title": "纯素家常菜「莴笋炒木耳」清香爽口，简单美味_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1bVGizYEg9/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1GxeG6CENt/",
+      "title": "简单清爽纯素家常菜「莴笋炒木耳」",
+      "author": "素食小老弟",
+      "published": "2026-09-17",
+      "duration": 67,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GxeG6CENt"
     }
   },
   {
@@ -13302,9 +15392,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107098586/",
     "video": {
-      "title": "〖荷塘小炒〗的做法，荷兰豆最好先焯水，直接炒不太好熟_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1sx411n7ao/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1SE1xBNEqp/",
+      "title": "颜值与味道并存的一道菜，荷塘小炒，特别清脆爽口，口感丰富，做法又超级简单，一定要试试呀，大小朋友都爱吃#家常菜 #荷塘小炒 #",
+      "author": "月月在做饭",
+      "published": "2025-11-05",
+      "duration": 71,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SE1xBNEqp"
     }
   },
   {
@@ -13348,9 +15446,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107377433/",
     "video": {
-      "title": "地道清炒藕片的做法，清脆爽口不发黑，一盘没够吃_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1ja4y1j7VQ/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1tVHd6tEug/",
+      "title": "三小只今天做清炒藕片",
+      "author": "HTB天际",
+      "published": "2026-10-09",
+      "duration": 76,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tVHd6tEug"
     }
   },
   {
@@ -13404,9 +15510,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104032592/",
     "video": {
-      "title": "不到5元的酸辣藕丁，老公忍不住都要喝两杯，脆爽又入味！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1gY411z7wf/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1HTLyznEsx/",
+      "title": "没胃口的时候就做这个酸辣藕丁，酸辣脆爽，简单好吃又下饭",
+      "author": "洋弟爱美食",
+      "published": "2025-04-28",
+      "duration": 69,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HTLyznEsx"
     }
   },
   {
@@ -13455,9 +15569,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107200992/",
     "video": {
-      "title": "莲藕炒肉片这样做又简单即好吃 - YouTube",
-      "url": "https://www.youtube.com/watch?v=uQbE-1zQuW0",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1ih2ZBgETJ/",
+      "title": "莲藕炒肉片",
+      "author": "行云流水的天地",
+      "published": "2025-12-07",
+      "duration": 262,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ih2ZBgETJ"
     }
   },
   {
@@ -13506,9 +15628,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/107002424/",
     "video": {
-      "title": "莲藕这样做，焦香酥脆，比吃薯条还过瘾，楚菜大厨教你做干煸藕丝！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1mt41127Xw/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1iwCpBaEfa/",
+      "title": "湖北特色菜之干煸藕丝。",
+      "author": "小黄和小小王",
+      "published": "2025-11-13",
+      "duration": 89,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1iwCpBaEfa"
     }
   },
   {
@@ -13552,9 +15682,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104706924/",
     "video": {
-      "title": "清炒山药的做法 - YouTube",
-      "url": "https://www.youtube.com/watch?v=IZ7m72dksOs",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1gVXPYKEBN/",
+      "title": "清炒山药片",
+      "author": "老妈家常菜-湖北",
+      "published": "2025-03-20",
+      "duration": 79,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gVXPYKEBN"
     }
   },
   {
@@ -13603,9 +15741,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107581595/",
     "video": {
-      "title": "春季要多吃木耳炒山药，脆嫩爽口，清淡解腻又营养，全家人都爱吃_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1WF411t7Wp/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1oZF1zgEWQ/",
+      "title": "山药炒木耳别乱做！记住这1招，脆嫩不发黑超下饭",
+      "author": "鲁大钱",
+      "published": "2026-02-10",
+      "duration": 116,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oZF1zgEWQ"
     }
   },
   {
@@ -13654,9 +15800,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/106812372/",
     "video": {
-      "title": "【美食强】“山药炒肉片”的家常做法、肉片嫩、山药脆爽不发黑、靠谱又实用 - YouTube",
-      "url": "https://www.youtube.com/watch?v=DZ2DpsryNuk",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1PZTYzMEWy/",
+      "title": "这道\"山药木耳炒肉\"一上桌、今天又是两碗饭",
+      "author": "美食强",
+      "published": "2025-06-09",
+      "duration": 219,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PZTYzMEWy"
     }
   },
   {
@@ -13695,9 +15849,17 @@ const recipes = [
     ],
     "source": "https://home.meishichina.com/recipe-7553.html",
     "video": {
-      "title": "水焖蒜蓉南瓜这样做，比水煮更有味，比爆炒的更香，#美食家常菜 #南瓜的新吃法# - 抖音",
-      "url": "https://www.douyin.com/video/7685020957710361855",
-      "platform": "抖音"
+      "url": "https://www.bilibili.com/video/BV1N9QwB1ErY/",
+      "title": "简单做又好吃的蒜香南瓜煲！！",
+      "author": "文文一文",
+      "published": "2026-04-10",
+      "duration": 35,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": true,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1N9QwB1ErY"
     }
   },
   {
@@ -13731,9 +15893,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106882632/",
     "video": {
-      "title": "咸蛋黄焗南瓜，简单易做不用油炸，味道还很不错_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1qA411v7Xb/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1TdgK6xE33/",
+      "title": "空气炸锅❗️咸蛋黄焗南瓜🔥怎么能这么好吃",
+      "author": "冰哥下厨了",
+      "published": "2026-08-14",
+      "duration": 92,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TdgK6xE33"
     }
   },
   {
@@ -13757,9 +15927,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/100409753/",
     "video": {
-      "title": "清蒸南瓜 - YouTube",
-      "url": "https://www.youtube.com/watch?v=OC8KFxBABwI",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV17BM3zvEyK/",
+      "title": "清蒸南瓜，软糯香甜增肌减脂，我们家孩子特别爱吃",
+      "author": "水中月的美食日记",
+      "published": "2025-06-10",
+      "duration": 75,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV17BM3zvEyK"
     }
   },
   {
@@ -13808,9 +15986,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/23410/",
     "video": {
-      "title": "红烧冬瓜的家常做法，鲜香入味，一周吃8次都不腻，比吃肉还香_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1bS4y1k7bk",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV15yMCzDE2h/",
+      "title": "【几块钱在家做出饭店味的红烧冬瓜】",
+      "author": "村驴",
+      "published": "2025-06-14",
+      "duration": 106,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV15yMCzDE2h"
     }
   },
   {
@@ -13849,9 +16035,17 @@ const recipes = [
     ],
     "source": "https://home.meishichina.com/recipe-538324.html",
     "video": {
-      "title": "【彬彬有院】食•263家常海米蚝油冬瓜方 - YouTube",
-      "url": "https://www.youtube.com/watch?v=k7PLChLcj3w",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1H8QKBmEWK/",
+      "title": "跟着豆包学做饭之蚝油蒜末冬瓜",
+      "author": "小白小新学做饭",
+      "published": "2026-04-11",
+      "duration": 146,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1H8QKBmEWK"
     }
   },
   {
@@ -13895,9 +16089,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/106166070/",
     "video": {
-      "title": "冬瓜海带汤，立夏的第一碗养生靓汤，真的好好喝_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV19s4y1u73p/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1kwk2YjEbA/",
+      "title": "吃腻了山珍海味？试试这道清爽到爆的冬瓜海带汤",
+      "author": "齐善素食",
+      "published": "2024-12-21",
+      "duration": 237,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kwk2YjEbA"
     }
   },
   {
@@ -13941,9 +16143,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/103938849/",
     "video": {
-      "title": "为什么广东人做虾皮冬瓜汤那么好喝？原来有技巧，汤鲜味美营养又好喝#冬瓜 #美食教程 - YouTube",
-      "url": "https://www.youtube.com/watch?v=NNOhCpjfTSc",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1h2hV6TEhV/",
+      "title": "简单快速菜：虾皮冬瓜汤",
+      "author": "黄脸婆555",
+      "published": "2026-08-25",
+      "duration": 33,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": true,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1h2hV6TEhV"
     }
   },
   {
@@ -13982,9 +16192,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107008569/",
     "video": {
-      "title": "厨师长教您蚝油杏鲍菇的做法，步骤详细，口感嫩滑劲道，比肉还香 - YouTube",
-      "url": "https://www.youtube.com/watch?v=2rh7mg82YbY",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1ZoNwe3E2E/",
+      "title": "普通的饭菜都是家的味道！蚝油杏鲍菇！！！",
+      "author": "周腊腊",
+      "published": "2025-02-04",
+      "duration": 62,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZoNwe3E2E"
     }
   },
   {
@@ -14028,9 +16246,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/100021799/",
     "video": {
-      "title": "减脂期馋烧烤，这个手撕杏鲍菇做法，好吃没负担！#杏鲍菇的神仙吃法 #减脂人的一日三餐 #快手早餐 #简餐_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1gfCsBwEhM/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1EYUQBaEyD/",
+      "title": "超级好吃的手撕杏鲍菇，不水煮不油炸的简单做法！干香美味！",
+      "author": "夏妈厨房Bili",
+      "published": "2025-11-25",
+      "duration": 137,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EYUQBaEyD"
     }
   },
   {
@@ -14069,9 +16295,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107127858/",
     "video": {
-      "title": "香煎杏鲍菇，简单家常料理，5分钟轻松上桌！_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1FV41137ZQ/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1PftB6sE8e/",
+      "title": "拒绝重油饮食！小白也能搞定的蒜香煎杏鲍菇教程来啦",
+      "author": "西班牙橄榄油",
+      "published": "2026-09-04",
+      "duration": 60,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PftB6sE8e"
     }
   },
   {
@@ -14115,9 +16349,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/107591368/",
     "video": {
-      "title": "素炒鲜口蘑 How to make Sauteed Mushroom 迷迭香 Chinese Food Recipes - YouTube",
-      "url": "https://www.youtube.com/watch?v=Cro0D26wO-k",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1n64kzgEgK/",
+      "title": "简单的快手菜，素炒口蘑 鲜香嫩滑，给肉都不换！",
+      "author": "食研记",
+      "published": "2025-10-13",
+      "duration": 48,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": true,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1n64kzgEgK"
     }
   },
   {
@@ -14156,9 +16398,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/104654341/",
     "video": {
-      "title": "大厨教你蒜蓉金针菇做法3分钟就学会鲜香滑嫩开胃又下饭 - YouTube",
-      "url": "https://www.youtube.com/watch?v=9n05Or6f-oM",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1j3HX6wEJX/",
+      "title": "打工人｜今天吃蒜蓉金针菇",
+      "author": "小明的私厨",
+      "published": "2026-10-11",
+      "duration": 138,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1j3HX6wEJX"
     }
   },
   {
@@ -14202,9 +16452,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/101719137/",
     "video": {
-      "title": "油焖笋可能是春天不能少的时鲜~爽脆好吃，做法特别简单记得收藏_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1ir4y1i734",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1m6XsB2Efe/",
+      "title": "素食-油焖笋 ，简单解锁油焖笋的美味做法",
+      "author": "璞植物料理主厨-杭州",
+      "published": "2026-03-26",
+      "duration": 69,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1m6XsB2Efe"
     }
   },
   {
@@ -14243,9 +16501,17 @@ const recipes = [
     ],
     "source": "https://home.meishichina.com/recipe-160121.html",
     "video": {
-      "title": "20140218 天天饮食 雪菜炒冬笋 - YouTube",
-      "url": "https://www.youtube.com/watch?v=kvrMOwxoYek",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1zUzPBCEsr/",
+      "title": "雪菜炒冬笋的制作",
+      "author": "殷晏云梦竹简",
+      "published": "2026-01-23",
+      "duration": 276,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zUzPBCEsr"
     }
   },
   {
@@ -14289,9 +16555,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/104688806/",
     "video": {
-      "title": "茭白炒毛豆 Water Bamboo with Edamame - YouTube",
-      "url": "https://www.youtube.com/watch?v=yCSYp8WF_rM",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1cueG6sEnp/",
+      "title": "家常菜 | 茭白炒毛豆",
+      "author": "起初蔬食",
+      "published": "2026-09-17",
+      "duration": 73,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cueG6sEnp"
     }
   },
   {
@@ -14330,9 +16604,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/33997/",
     "video": {
-      "title": "上海经典开胃小菜雪菜炒毛豆，咸鲜开胃，超级下饭，天天吃不腻 - YouTube",
-      "url": "https://www.youtube.com/watch?v=05DJk58hWZ0",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1mvTC6XEey/",
+      "title": "夏天的味道，都藏在这盘咸鲜醇香的雪菜毛豆里了",
+      "author": "简罡的私房美食",
+      "published": "2026-07-05",
+      "duration": 77,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mvTC6XEey"
     }
   },
   {
@@ -14371,9 +16653,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106942275/",
     "video": {
-      "title": "【清炒西葫芦】清爽好吃的西葫芦 做法超简单~[Stir-fried zucchini] Fresh and delicious zucchini practice is super simple - YouTube",
-      "url": "https://www.youtube.com/watch?v=sOX16AcgcYw",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1TbrSYaEUV/",
+      "title": "清炒西葫芦（普通家常菜）",
+      "author": "是燕小猪",
+      "published": "2025-01-07",
+      "duration": 238,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TbrSYaEUV"
     }
   },
   {
@@ -14412,9 +16702,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/106140793/",
     "video": {
-      "title": "饭店的西葫芦炒鸡蛋为什么好吃，大厨教你新吃法，年夜饭家常菜_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1sz4y1S7Lu/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1d5an6KErX/",
+      "title": "西葫芦炒鸡蛋",
+      "author": "冫馬JCC",
+      "published": "2026-09-29",
+      "duration": 89,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1d5an6KErX"
     }
   },
   {
@@ -14453,9 +16751,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107297857/",
     "video": {
-      "title": "这才是清炒丝瓜最简单、最好看、最香滑的做法，没有之一。 - YouTube",
-      "url": "https://www.youtube.com/watch?v=zcpz_i7K-mM",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV14zmvB8E4Z/",
+      "title": "清炒丝瓜这样做才好吃",
+      "author": "小厨大亮",
+      "published": "2025-12-14",
+      "duration": 71,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV14zmvB8E4Z"
     }
   },
   {
@@ -14499,9 +16805,17 @@ const recipes = [
     ],
     "source": "https://home.meishichina.com/recipe-230183.html",
     "video": {
-      "title": "夏季時令菜木耳炒絲瓜，絲瓜翠綠不發黑，搭配木耳，清脆不油膩 👉歡迎訂閱【老東北美食】 （2022） - YouTube",
-      "url": "https://www.youtube.com/watch?v=1WvSDYyns3w",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1TEUnYwE4h/",
+      "title": "561 洋葱木耳炒丝瓜 创新无油烟健康做菜方法 调味窍门 评论告知 受益匪浅",
+      "author": "百姓美食家厨",
+      "published": "2024-11-18",
+      "duration": 95,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TEUnYwE4h"
     }
   },
   {
@@ -14550,12 +16864,16 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107327859/",
     "video": {
-      "url": "https://www.bilibili.com/video/BV1bLZAYkEcQ/",
-      "title": "教你苦瓜炒肉的家常做法，苦瓜不苦且回甘，肉片嫩滑不柴，超好吃",
-      "platform": "哔哩哔哩",
+      "url": "https://www.douyin.com/video/7628923757347884328",
+      "title": "炒苦瓜别只会加盐，黄金四步法",
+      "author": "大厨阿斗",
+      "published": "2026-04-15",
+      "duration": 240,
+      "platform": "抖音",
       "embed": true,
-      "published": "2025-03-29",
-      "author": "天天相见厨房阿鹏"
+      "metadataVerified": true,
+      "largeDish": false,
+      "source": "https://open.douyin.com/api/douyin/v1/video/get_iframe_by_video?video_id=7628923757347884328"
     }
   },
   {
@@ -14599,9 +16917,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/105847632/",
     "video": {
-      "title": "这道四川经典的干煸苦瓜可以说是最好吃、最下饭的苦瓜做法之一。 - YouTube",
-      "url": "https://www.youtube.com/watch?v=t4sl29IYnGs",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1GTJV6yEqc/",
+      "title": "夏天必吃干煸苦瓜做法，清爽解腻超适配三餐",
+      "author": "周幺姑家常菜",
+      "published": "2026-06-16",
+      "duration": 107,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GTJV6yEqc"
     }
   },
   {
@@ -14640,9 +16966,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/100552162/",
     "video": {
-      "title": "廚師長教你蒜蓉秋葵的家常做法，步驟詳細，蒜香濃郁下酒又下飯【留意美食】 - YouTube",
-      "url": "https://www.youtube.com/watch?v=o_lFoP66Ih0",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1MfX5B9Ec7/",
+      "title": "超级香的蒜蓉秋葵",
+      "author": "啊张佳味",
+      "published": "2026-03-28",
+      "duration": 38,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": true,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MfX5B9Ec7"
     }
   },
   {
@@ -14686,9 +17020,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/104573750/",
     "video": {
-      "title": "《芦笋炒蘑菇|Fried Asparagus & Mushrooms》 不用太多工序，快速料理即能上菜。淸脆爽口的绿芦笋利用蘑菇提味，简单食材变化出好滋味，美味无负担，并且有西餐的风味！ - YouTube",
-      "url": "https://www.youtube.com/watch?v=kLw_GJT7PrM",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1bWdqBoENW/",
+      "title": "春日低卡低脂菜分享｜芦笋炒口蘑",
+      "author": "煲汤的牙米",
+      "published": "2026-04-17",
+      "duration": 105,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bWdqBoENW"
     }
   },
   {
@@ -14732,9 +17074,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/1041668/",
     "video": {
-      "title": "我認爲就是素炒三丁最好吃的做法，簡單家常，香脆可口，營養美味，適合全家人吃#like #家常菜 #cooking - YouTube",
-      "url": "https://www.youtube.com/watch?v=q6MJ0goKNOg",
-      "platform": "YouTube"
+      "url": "https://www.bilibili.com/video/BV1Kb22YYEEm/",
+      "title": "经常给家人做这个素炒三丁！做法简单，营养丰富！",
+      "author": "夏叔有好货",
+      "published": "2024-10-15",
+      "duration": 122,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Kb22YYEEm"
     }
   },
   {
@@ -14783,9 +17133,17 @@ const recipes = [
     ],
     "source": "https://www.xiachufang.com/recipe/107077748/",
     "video": {
-      "title": "经典家常菜“炒合菜”做法易学、步骤详细、讲解清晰_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV1Ev4y1A78Z/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1xjNge6EK1/",
+      "title": "【国民下饭神菜 炒合菜】在家轻松做出饭店味！",
+      "author": "村驴",
+      "published": "2025-02-08",
+      "duration": 125,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xjNge6EK1"
     }
   },
   {
@@ -14834,9 +17192,17 @@ const recipes = [
     ],
     "source": "https://m.xiachufang.com/recipe/104534964/",
     "video": {
-      "title": "家常菜豆芽炒粉条做法，2步技巧教你，比饭店好吃_哔哩哔哩_bilibili",
-      "url": "https://www.bilibili.com/video/BV12v411y7m5/",
-      "platform": "哔哩哔哩"
+      "url": "https://www.bilibili.com/video/BV1JMAHeZE6Z/",
+      "title": "春天吃芽菜，在家做这个豆芽炒粉丝，营养丰富做法简单！别提多香了！#豆芽炒粉条 #春饼卷饼 #春饼卷菜",
+      "author": "夏叔有好货",
+      "published": "2025-02-20",
+      "duration": 71,
+      "platform": "哔哩哔哩",
+      "embed": true,
+      "metadataVerified": true,
+      "durationException": false,
+      "largeDish": false,
+      "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JMAHeZE6Z"
     }
   }
 ];
